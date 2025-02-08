@@ -1,0 +1,7 @@
+﻿CHaoGongGuo = {
+	corresponding = LingZHu
+}
+
+LingZHu = {
+	corresponding = CHaoGongGuo
+}

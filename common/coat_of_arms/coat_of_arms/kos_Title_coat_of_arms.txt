@@ -1,0 +1,41 @@
+d_BeiJi={	#北极
+	pattern="pattern__solid_designer.dds"
+	color1=black
+	color2=white
+	color3=blue
+	colored_emblem={
+		color1=white
+		texture="ce_triangle_mask.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+	}
+}
+
+c_BeiJi={	#北极
+	pattern="pattern__solid_designer.dds"
+	color1=black
+	color2=white
+	color3=blue
+	colored_emblem={
+		color1=white
+		texture="ce_triangle_mask.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+	}
+}
+
+b_BeiJi={	#北极
+	pattern="pattern__solid_designer.dds"
+	color1=black
+	color2=white
+	color3=blue
+	colored_emblem={
+		color1=white
+		texture="ce_triangle_mask.dds"
+		instance={
+			scale={ -1.000000 1.000000 }
+		}
+	}
+}

@@ -1,0 +1,167 @@
+0;0;0;0;x;x;
+1;10;10;10;BiTuWai;x;	#地图外
+2;15;15;15;NanJiHuangDi;x;	#南极荒地
+3;25;25;25;BeiJiHuangDi;x;	#北极荒地
+
+4;195;0;0;ZHongXinDaoHeXin;x;	#中心岛核心
+5;200;0;0;NeiXiNanZHongXinDao;x;	#内西南中心岛
+6;205;0;0;NeiDongNanZHongXinDao;x;	#内东南中心岛
+7;210;0;0;NeiDingBeiZHongXinDao;x;	#内东北中心岛
+8;215;0;0;NeiXiBeiZHongXinDao;x;	#内西北中心岛
+9;220;0;0;SHangXiNanZHongXinDao;x;	#上西南中心岛
+10;225;0;0;XiaXiNanZHongXinDao;x;	#下西南中心岛
+11;230;0;0;SHangDongNanZHongXinDao;x;	#上东南中心岛
+12;235;0;0;XiaDongNanZHongXinDao;x;	#下东南中心岛
+13;240;0;0;XiaDongBeiZHongXinDao;x;	#下东北中心岛
+14;245;0;0;SHangDongBeiZHongXinDao;x;	#上东北中心岛
+15;250;0;0;XiaXiBeiZHongXinDao;x;	#下西北中心岛
+16;255;0;0;SHangXiBeiZHongXinDao;x;	#上西北中心岛
+17;220;220;0;WaiSHangXiNanZHongXinDao;x;	#外上西南中心岛
+18;225;225;0;WaiXiaXiNanZHongXinDao;x;	#外下西南中心岛
+19;230;230;0;WaiSHangDongNanZHongXinDao;x;	#外上东南中心岛
+20;235;235;0;WaiXiaDongNanZHongXinDao;x;	#外下东南中心岛
+21;240;240;0;WaiXiaDongBeiZHongXinDao;x;	#外下东北中心岛
+22;245;245;0;WaiSHangDongBeiZHongXinDao;x;	#外上东北中心岛
+23;250;250;0;WaiXiaXiBeiZHongXinDao;x;	#外下西北中心岛
+24;255;255;0;WaiSHangXiBeiZHongXinDao;x;	#外上西北中心岛
+
+
+25;251;69;137;DongSiWaCaSHanHuangDi;x;	#东斯瓦嚓山荒地
+
+26;191;95;111;DiErFoLuoLiYa;x;	#第二佛罗利亚（赫沃图其 赫）
+27;180;10;12;LinJinFoLuoLiYaHai;x;	#临近佛罗利亚海（赫沃图其 阿赫其特）
+28;164;127;129;LinJinFoLuoLiYaWan;x;	#临近佛罗利亚湾（赫沃图其 阿赫其特-斯）
+
+29;42;42;72;XiaSHouWang;x;	#下守望（下 瓦阿图）
+30;178;179;227;ZHongSHouWang;x;	#中守望（中 瓦阿图）
+31;168;97;240;SHangSHouWang;x;	#上守望（上 瓦阿图）
+
+32;200;20;91;DongNanSiWaCaSHanJiao;x;	#东南斯瓦嚓山脚
+33;190;78;120;TuDiBao;x;	#土地堡（西特赫伐耳）
+34;254;78;139;TuQiATe;x;	#图其阿特（图特）
+
+35;179;180;25;SHangBinHaiSiWaCa;x;	#上滨海斯瓦嚓（上 斯瓦嚓 奥伊）
+36;178;179;102;XiaBinHaiSiWaCa;x;	#下滨海斯瓦嚓（下 斯瓦嚓 奥伊）
+37;201;115;74;BuLuenXian;x;	#不陷落（赫赫 卡赫特）
+
+38;218;82;0;YongSHi_1;x;	#勇士1（达腊 沃）
+39;208;72;0;YongSHi_2;x;	#勇士2（达腊 赫）
+40;198;62;0;YongSHi_3;x;	#勇士3（达腊 耳）
+
+41;172;91;222;Bu;x;	#布（格阿布）
+42;91;178;222;BinHaiBu;x;	#滨海布（格阿布 奥伊）
+43;222;185;91;	DongBu;x;	#东布（东格阿布）
+
+44;63;228;162;Du;x;	#毒（达阿）
+45;246;66;69;Bu;x;	#布
+46;222;91;93;Men;x;	#门（莫）
+
+47;20;134;200;SHangDongSiWaCaSHanJiao;x;	#上东斯瓦嚓山脚
+48;45;68;208;DongSiWaCaSHanJiao;x;	#东斯瓦嚓山脚
+49;176;63;204;XiaDongSiWaCaSHanJiao;x;	#下东斯瓦嚓山脚
+
+50;180;0;71;YanHaiZouLang;x;	#沿海走廊（克西特-奥伊）
+51;204;83;131;SiWaCaZouLang;x;	#斯瓦嚓走廊（克西特-斯瓦嚓）
+
+52;180;180;0;SiWaCaLvZHouYiHao;x;	#斯瓦嚓绿洲一号（伊克-斯瓦嚓 沃）
+53;0;180;90;SiWaCaLvZHouErHao;x;	#斯瓦嚓绿洲二号（伊克-斯瓦嚓 赫）
+
+54;19;102;20;NeiXiWangDi;x;	#内希望地
+55;0;255;4;XiWangDi;x;	#希望地
+56;159;160;63;WaiXiWangDi;x;	#外希望地
+
+57;134;73;149;XiaDongBeiSiWaCaSHanJiao;x;	#下东北斯瓦嚓山脚
+58;74;4;91;SHangDongBeiSiWaCaSHanJiao;x;	#上东北斯瓦嚓山脚
+
+
+59;169;69;251;ZHongDongSiWaCaSHanHuangDi;x;	#中东斯瓦嚓山荒地
+
+60;169;77;111;XinTuDiBao;x;	#新土地堡
+61;146;81;186;XinGeABu;x;	#新格阿布
+
+62;231;233;100;HuangJinDi;x;	#黄金地（大沃赫特阿）
+63;146;67;211;XiHuangJinDi;x;	#西黄金地（大沃赫特阿）
+
+64;212;29;32;GanDiaoATe;x;	#干掉阿特（赫赫 阿特）
+65;177;29;32;XiGanDiaoATe;x;	#西干掉阿特（西 赫赫 阿特）
+
+66;107;173;197;YvDi;x;	#鱼地
+67;233;209;100;CHaiFuDi;x;	#财富地（小沃赫特阿）
+68;159;223;225;KuangDi;x;	#矿地
+
+69;68;128;150;HaiDi;x;	#海地
+70;56;56;56;MuDi;x;	#墓地
+71;76;189;220;JiaDi;x;	#家地
+72;189;97;99;RongYaoDi;x;	#荣耀地
+
+73;38;246;152;DaoDi;x;	#岛地
+74;222;71;93;YongDi;x;	#勇地
+#75;83;52;194;XNingDi;x;	#星地
+75;189;186;97;ZHenFuDi;x;	#征服地
+
+76;192;241;243;DongKuangQv;x;	#东矿区
+77;185;203;203;XiKuangQv;x;	#西矿区
+
+78;51;51;243;SHeDao;x;	#蛇岛
+
+79;107;126;158;YanHaiHeXi;x;	#沿海河西
+80;158;156;107;HeXiZoLang;x;	#河西走廊
+81;237;234;140;SHangHeXi;x;	#上河西
+
+82;212;236;180;XiangYaGu;x;	#象牙谷
+83;193;236;180;XiangYaZoLang;x;	#象牙走廊
+84;201;249;199;DongXiangYaHaiAn;x;	#东象牙海岸
+85;242;249;199;XiXiangYaHaiAn;x;	#西象牙海岸
+
+86;101;100;100;ZHongDongSiWaCaSHanJiao;x;	#中东斯瓦嚓山脚
+87;89;89;89;YingDi;x;	#鹰地
+
+
+88;135;151;110;ZHongSiWaCaSHanHuangDi;x;	#中斯瓦嚓山荒地
+
+89;225;247;59;LeiDa;x;	#垒达
+90;211;237;17;ErA;x;	#儿阿
+
+91;171;223;232;ZiYouDi;x;	#自由地
+
+92;185;29;32;KuangRen;x;	#狂人
+
+93;95;60;48;LeiQiCi;x;	#垒其刺
+
+94;40;40;40;LeiTeNa;x;	#垒特纳
+
+95;130;130;130;TeBuHe;x;	#特布赫
+
+96;218;237;236;LeiHeFa;x;	#垒赫伐
+
+97;254;255;239;LeiLaTe;x;	#垒腊特
+
+98;38;95;228;LeiWoTe;x;	#垒沃特
+
+99;137;145;124;DongLeiDaEr;x;	#东垒达耳 #东垒阿达
+100;119;130;103;XiLeiDaEr;x;	#西垒达耳 #东垒阿达
+
+101;58;42;43;LeiBuHeJiao;x;	#垒布赫脚
+101;74;36;57;BeiLeiBuHe;x;	#北垒布赫
+
+102;115;188;107;LeiATe';x;	#垒阿特
+
+103;215;197;110;NongMin;x;	#农民
+
+104;176;220;171;LeiYi;x;	#垒伊
+
+105;39;43;169;HaiEnSHi;x;	#海恩市（伐赫特斯-阿赫其特）
+
+106;232;220;161;HaiEnSHiJiaoQv;x;	#海恩市郊区（伐赫特斯-阿赫其特-）
+
+#61;143;186;0;BianYuanZouLang;x;	#东边缘走廊
+#62;251;255;0;CHaoSHengLu_CHuFai;x;	#朝圣陆：出发
+#63;217;220;43;CHaoSHengLu_WeiXian;x;	#朝圣陆：危险
+#64;219;221;87;CHaoSHengLu_XiWang;x;	#朝圣陆：希望
+#
+#61;196;94;94;DongATeTuYi;x;	#东阿特图伊
+#62;60;75;165;XiBianYuanZouLang;x;	#阿特图伊-斯瓦嚓
+#63;131;132;67;XiBianYuanZouLang;x;	#特图嚓
+#
+107;255;255;255;CS;x;
+108;255;0;128;CS2;x;

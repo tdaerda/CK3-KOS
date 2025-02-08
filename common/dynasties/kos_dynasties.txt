@@ -1,0 +1,103 @@
+﻿0 = {
+	name = "dynn_MoYing"
+	culture = "french"
+	motto = "dynn_0_motto"
+}
+
+1 = {
+	prefix = "dynnp_er"
+	name = "dynn_swacha"
+	culture = "swacha"
+	motto = "dynn_1_motto"
+}
+
+2 = {
+	prefix = "dynnp_er"
+	name = "dynn_waaatu"
+	culture = "swacha"
+	motto = "dynn_2_motto"
+}
+
+3 = {
+	prefix = "dynnp_er"
+	name = "dynn_leigehertu"
+	culture = "swacha"
+	motto = "dynn_3_motto"
+}
+
+4 = {
+	prefix = "dynnp_er"
+	name = "dynn_leiherteer"
+	culture = "swacha"
+	motto = "dynn_4_motto"
+}
+
+10 = {
+	prefix = "dynnp_er"
+	name = "dynn_leipoda"
+	culture = "aat"
+	motto = "dynn_10_motto"
+}
+
+11 = {
+	prefix = "dynnp_er"
+	name = "dynn_tebuher"
+	culture = "aat"
+	motto = "dynn_11_motto"
+}
+
+12 = {
+	prefix = "dynnp_er"
+	name = "dynn_leilida"
+	culture = "leilida"
+	motto = "dynn_12_motto"
+}
+
+13 = {
+	prefix = "dynnp_er"
+	name = "dynn_leiackt"
+	culture = "aat"
+	motto = "dynn_13_motto"
+}
+
+14 = {
+	prefix = "dynnp_er"
+	name = "dynn_leiqists"
+	culture = "aat"
+	motto = "dynn_14_motto"
+}
+
+15 = {
+	prefix = "dynnp_er"
+	name = "dynn_leitan"
+	culture = "aat"
+	motto = "dynn_15_motto"
+}
+
+16 = {
+	prefix = "dynnp_er"
+	name = "dynn_leiherfa"
+	culture = "aat"
+	motto = "dynn_16_motto"
+}
+
+17 = {
+	prefix = "dynnp_er"
+	name = "dynn_leilat"
+	culture = "aat"
+	motto = "dynn_17_motto"
+}
+
+18 = {
+	prefix = "dynnp_er"
+	name = "dynn_leiourda"
+	culture = "aat"
+	motto = "dynn_18_motto"
+}
+
+19 = {
+	prefix = "dynnp_er"
+	name = "dynn_leidaer"
+	culture = "aat"
+	motto = "dynn_19_motto"
+}

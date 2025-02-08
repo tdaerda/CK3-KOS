@@ -1,0 +1,7 @@
+﻿struggle_molax_phase_soldiers_of_the_grassland = {
+	parent = molax_struggle
+}
+
+struggle_molax_phase_digest_and_Reconstruction = {
+	parent = molax_struggle
+}

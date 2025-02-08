@@ -1,0 +1,8 @@
+﻿0.1.1 = { # Conclusion of the initial wave of Islamic conquest, so we settle in for the struggle.
+	effect = {
+		start_struggle = {
+			struggle_type = morasts_struggle
+			start_phase = struggle_morasts_phase_soldiers_of_the_grassland
+		}	
+	}
+}

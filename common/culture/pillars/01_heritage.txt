@@ -1,0 +1,19 @@
+﻿heritage_aattui = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_aattui
+		}
+	}
+	audio_parameter = mena
+}
+
+heritage_tuqi = {
+	type = heritage
+	is_shown = {
+		heritage_is_shown_trigger = {
+			HERITAGE = heritage_tuqi
+		}
+	}
+	audio_parameter = mena
+}

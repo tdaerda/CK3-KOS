@@ -1,0 +1,18 @@
+﻿arctic = {
+	duchies = {
+		d_BeiJi
+	}
+}
+
+center_island = {
+	duchies = {
+		d_ZHongXinDao
+	}
+}
+
+prairie = {
+	duchies = {
+		d_DongSiWaCzaSHan d_ZHongDongSiWaCzaSHan d_ZHongSiWaCzaSHan 
+	}
+}
+

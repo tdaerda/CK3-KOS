@@ -1,0 +1,13 @@
+namespace = kos_HouNoLaCiSHiDai
+
+kos_HouNoLaCiSHiDai.1 = {
+	desc = kos_HouNoLaCiSHiDai.1.d
+	title = kos_HouNoLaCiSHiDai.1.t
+
+	type = character_event
+	window = fullscreen_event
+
+	option = {
+		name = kos_HouNoLaCiSHiDai.1.a
+	}
+}

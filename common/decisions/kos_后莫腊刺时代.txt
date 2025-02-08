@@ -1,0 +1,108 @@
+﻿###################################
+# 消失的草原民族结局
+###################################
+
+struggle_morasts_ending_disappearing_steppe_people_decision = {
+	decision_group_type = major
+	title = struggle_morasts_ending_disappearing_steppe_people_decision
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/fp3/fp3_decision_supremacy.dds"
+	}
+	extra_picture = "gfx/interface/illustrations/struggle_decision_buttons/fp3_decision_strength.dds"
+	desc = struggle_morasts_ending_disappearing_steppe_people_decision_desc
+	selection_tooltip = struggle_morasts_ending_disappearing_steppe_people_decision_tooltip
+	confirm_click_sound = "event:/DLC/FP2/SFX/UI/fp2_struggle_ending_decision_confirm"
+	is_invisible = yes
+	sort_order = 80
+
+	is_valid = {
+		is_available_adult = yes
+		NOT = {
+			has_religion = religion:kos_aateerhert_religion
+		}
+	}
+
+	is_valid_showing_failures_only = {
+	}
+
+	effect = {
+		dynasty = { add_dynasty_prestige = 10000 }
+	}
+	
+	ai_check_interval = 36
+	ai_potential = { always = yes }
+	ai_will_do = { base = 100 }
+}
+
+###################################
+# 赞美太阳结局
+###################################
+
+struggle_morasts_ending_praise_the_sun_decision = {
+	decision_group_type = major
+	title = struggle_morasts_ending_praise_the_sun_decision
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/fp3/fp3_decision_supremacy.dds"
+	}
+	extra_picture = "gfx/interface/illustrations/struggle_decision_buttons/fp3_decision_strength.dds"
+	desc = struggle_morasts_ending_praise_the_sun_decision_desc
+	selection_tooltip = struggle_morasts_ending_praise_the_sun_decision_tooltip
+	confirm_click_sound = "event:/DLC/FP2/SFX/UI/fp2_struggle_ending_decision_confirm"
+	is_invisible = yes
+	sort_order = 80
+
+	is_valid = {
+		is_available_adult = yes
+		completely_controls = title:e_ATeTuYi
+		completely_controls = title:e_SiWaCa
+		has_faith = faith:kos_tui_aateerhert
+	}
+
+	is_valid_showing_failures_only = {
+	}
+
+	effect = {
+		give_nickname = nick_the_conquistador
+		dynasty = { add_dynasty_prestige = 10000 }
+	}
+	
+	ai_check_interval = 36
+	ai_potential = { always = yes }
+	ai_will_do = { base = 100 }
+}
+
+###################################
+# 复兴斯瓦嚓结局
+###################################
+
+struggle_morasts_ending_revival_swacha_decision = {
+	decision_group_type = major
+	title = struggle_morasts_ending_revival_swacha_decision
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/fp3/fp3_decision_supremacy.dds"
+	}
+	extra_picture = "gfx/interface/illustrations/struggle_decision_buttons/fp3_decision_strength.dds"
+	desc = struggle_morasts_ending_revival_swacha_decision_desc
+	selection_tooltip = struggle_morasts_ending_revival_swacha_decision_tooltip
+	confirm_click_sound = "event:/DLC/FP2/SFX/UI/fp2_struggle_ending_decision_confirm"
+	is_invisible = yes
+	sort_order = 80
+
+	is_valid = {
+		is_available_adult = yes
+		completely_controls = title:e_SiWaCa
+		has_faith = faith:kos_swacha_aateerhert
+	}
+
+	is_valid_showing_failures_only = {
+	}
+
+	effect = {
+		give_nickname = nick_the_conquistador
+		dynasty = { add_dynasty_prestige = 10000 }
+	}
+	
+	ai_check_interval = 36
+	ai_potential = { always = yes }
+	ai_will_do = { base = 100 }
+}

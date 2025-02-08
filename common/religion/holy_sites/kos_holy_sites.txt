@@ -1,0 +1,30 @@
+﻿
+
+#############
+# Christian #
+#############
+
+# Catholic
+
+ZHongXinDao = {
+	county = c_ZHongXinDaoHeXin
+	
+	character_modifier = {
+		monthly_lifestyle_xp_gain_mult = 0.15
+		learning_per_piety_level = 1
+		stewardship_per_piety_level = 1
+		knight_effectiveness_mult = 0.05
+		hard_casualty_modifier = -0.05
+	}
+}
+
+SanYongSHi = {
+	county = c_SanYongSHi
+	
+	character_modifier = {
+		prowess_per_piety_level = 1
+		knight_limit = 3
+		knight_effectiveness_mult = 0.05
+		hard_casualty_modifier = -0.05
+	}
+}

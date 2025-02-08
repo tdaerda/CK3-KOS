@@ -1,0 +1,5 @@
+3 = {		#北极荒地
+	culture = baranis
+	religion = HOSX_WuSHenLun
+	holding = tribal_holding
+}

@@ -1,0 +1,1191 @@
+﻿l_simp_chinese:
+ 
+ #头衔
+ 
+ d_BeiJi: "北极"
+ c_BeiJi: "北极"
+ b_BeiJi: "北极"
+ 
+ e_TianGuaGuo: "甜瓜国"
+ k_ZHongXinDao: "中心岛"
+ d_ZHongXinDao: "中心岛"
+ c_ZHongXinDaoHeXin: "中心岛核心"
+ b_ZHongXinDaoHeXin: "中心岛核心"
+ c_NeiZHongXinDao: "内中心岛"
+ b_NeiXiNanZHongXinDao: "内西南中心岛"
+ b_NeiDongNanZHongXinDao: "内东南中心岛"
+ b_NeiDongBeiZHongXinDao: "内东北中心岛"
+ b_NeiXiBeiZHongXinDao: "内西北中心岛"
+ c_ZHongZHongXinDao: "中中心岛"
+ b_SHangXiNanZHongXinDao: "上西南中心岛"
+ b_XiaXiNanZHongXinDao: "下西南中心岛"
+ b_SHangDongNanZHongXinDao: "上东南中心岛"
+ b_XiaDongNanZHongXinDao: "下东南中心岛"
+ b_XiaDongBeiZHongXinDao: "下东北中心岛"
+ b_SHangDongBeiZHongXinDao: "上东北中心岛"
+ b_XiaXiBeiZHongXinDao: "下西北中心岛"
+ b_SHangXiBeiZHongXinDao: "上西北中心岛"
+ c_WaiZHongXinDao: "外中心岛"
+ b_WaiSHangXiNanZHongXinDao: "外上西南中心岛"
+ b_WaiXiaXiNanZHongXinDao: "外下西南中心岛"
+ b_WaiSHangDongNanZHongXinDao: "外上东南中心岛"
+ b_WaiXiaDongNanZHongXinDao: "外下东南中心岛"
+ b_WaiXiaDongBeiZHongXinDao: "外下东北中心岛"
+ b_WaiSHangDongBeiZHongXinDao: "外上东北中心岛"
+ b_WaiXiaXiBeiZHongXinDao: "外下西北中心岛"
+ b_WaiSHangXiBeiZHongXinDao: "外上西北中心岛"
+ 
+ e_SiWaCa: "斯瓦嚓"
+ k_SiWaCaSHanMai: "斯瓦嚓山脉"
+ 
+ d_DongSiWaCzaSHan: "东斯瓦嚓山"
+ c_DiErFoLuoLiYa: "赫沃图其赫"
+ b_DiErFoLuoLiYa: "赫沃图其赫"
+ b_LinJinFoLuoLiYaHai: "赫沃图其阿赫其特"
+ b_LinJinFoLuoLiYaWan: "赫沃图其阿赫其特斯"
+ c_SHouWang: "瓦阿图"
+ b_XiaSHouWang: "下瓦阿图"
+ b_ZHongSHouWang: "中瓦阿图"
+ b_SHangSHouWang: "上瓦阿图"
+ c_DongNanSiWaCaSHan: "东南斯瓦嚓山"
+ b_DongNanSiWaCaSHanJiao: "东南斯瓦嚓山脚"
+ b_TuDiBao: "土地堡"
+ b_TuQiATe: "图特"
+ c_BinHaiSiWaCa: "滨海斯瓦嚓"
+ b_SHangBinHaiSiWaCa: "上滨海斯瓦嚓"
+ b_XiaBinHaiSiWaCa: "下滨海斯瓦嚓"
+ b_BuLuenXian: "卡赫特赫赫"
+ c_SanYongSHi: "三勇士"
+ b_YongSHi_1: "达腊 沃"
+ b_YongSHi_2: "达腊 赫"
+ b_YongSHi_3: "达腊 耳"
+ c_Bu: "格阿布"
+ b_Bu_1: "格阿布"
+ b_BinHaiBu: "滨海格阿布"
+ b_DongBu: "东格阿布"
+ c_DuBuMen: "达阿布莫"
+ b_Du: "达阿"
+ b_Bu_2: "布"
+ b_Men: "莫"
+ c_DongSiWaCaSHanJiao: "东斯瓦嚓山脚"
+ b_SHangDongSiWaCaSHanJiao: "上东斯瓦嚓山脚"
+ b_DongSiWaCaSHanJiao: "东斯瓦嚓山脚"
+ b_XiaDongSiWaCaSHanJiao: "下东斯瓦嚓山脚"
+ c_SiWaCaZouLang: "斯瓦嚓走廊"
+ b_YanHaiZouLang: "沿海走廊"
+ b_SiWaCaZouLang: "克西特-斯瓦嚓"
+ c_SiWaCaLvZHou: "斯瓦嚓绿洲"
+ b_SiWaCaLvZHouYiHao: "伊克-斯瓦嚓 沃"
+ b_SiWaCaLvZHouErHao: "伊克-斯瓦嚓 赫"
+ c_XiWangDi: "希望地"
+ b_NeiXiWangDi: "内希望地"
+ b_XiWangDi: "希望地"
+ b_WaiXiWangDi: "外希望地"
+ c_DongBeiSiWaCaSHanJiao: "东北斯瓦嚓山脚"
+ b_XiaDongBeiSiWaCaSHanJiao: "下东北斯瓦嚓山脚"
+ b_SHangDongBeiSiWaCaSHanJiao: "上东北斯瓦嚓山脚"
+ 
+ d_ZHongDongSiWaCzaSHan: "中东斯瓦嚓山"
+ c_XiaBaoLiuDi: "下西特赫伐耳-阿特"
+ b_XinTuDiBao: "新土地堡"
+ b_XinGeABu: "新格阿布"
+ c_ZHongBaoLiuDi: "中西特赫伐耳-阿特"
+ b_HuangJinDi: "黄金地"
+ b_XiHuangJinDi: "西黄金地"
+ c_SHangBaoLiuDi: "上西特赫伐耳-阿特"
+ b_GanDiaoATe: "赫赫阿特"
+ b_XiGanDiaoATe: "西赫赫阿特"
+ c_DongFuWen: "东阿特嚓斯"
+ b_YvDi: "鱼地"
+ b_CHaiFuDi: "财富地"
+ b_KuangDi: "矿地"
+ c_ZHongFuWen: "中阿特嚓斯"
+ b_HaiDi: "海地"
+ b_MuDi: "墓地"
+ b_JiaDi: "家地"
+ b_RongYaoDi: "荣耀地"
+ c_XiFuWen: "西阿特嚓斯"
+ b_DaoDi: "岛地"
+ b_YongDi: "勇地"
+ b_ZHenFuDi: "征服地"
+ c_KuangQv: "矿区"
+ b_DongKuangQv: "东矿区"
+ b_XiKuangQv: "西矿区"
+ c_SHeDao: "蛇岛"
+ b_SHeDao: "蛇岛"
+ c_HeXi: "河西"
+ b_YanHaiHeXi: "沿海河西"
+ b_HeXiZoLang: "河西走廊"
+ b_SHangHeXi: "上河西"
+ c_XiangDi: "象地"
+ b_XiangYaGu: "象牙谷"
+ b_XiangYaZoLang: "象牙走廊"
+ b_DongXiangYaHaiAn: "东象牙海岸"
+ b_XiXiangYaHaiAn: "西象牙海岸"
+ c_YingDi: "鹰地"
+ b_ZHongDongSiWaCaSHanJiao: "中东斯瓦嚓山脚"
+ b_YingDi: "鹰地"
+ 
+ d_ZHongSiWaCzaSHan: "中斯瓦嚓山"
+ c_LeiDa: "垒达"
+ b_LeiDa: "垒达"
+ b_ErA: "儿阿"
+ c_ZiYouDi: "自由地"
+ b_ZiYouDi: "自由地"
+ c_KuangRen: "狂人"
+ b_KuangRen: "狂人"
+ c_LeiQiCi: "垒其刺"
+ b_LeiQiCi: "垒其刺"
+ c_LeiTeNa: "垒特纳"
+ b_LeiTeNa: "垒特纳"
+ c_TeBuHe: "特布赫"
+ b_TeBuHe: "特布赫"
+ c_LeiHeFa: "垒赫伐"
+ b_LeiHeFa: "垒赫伐"
+ c_LeiLaTe: "垒腊特"
+ b_LeiLaTe: "垒腊特"
+ c_LeiWoTe: "垒沃特"
+ b_LeiWoTe: "垒沃特"
+ c_LeiDaEr: "垒达耳"
+ b_DongLeiDaEr: "东垒达耳"
+ b_XiLeiDaEr: "西垒达耳"
+ 
+ d_AoDa: "奥达"
+ 
+ e_ATeTuYi: "阿特图伊"
+ k_DongAtETuYi: "东阿特图伊"
+ d_CHaoSHengLu: "朝圣陆"
+ c_CHaoSHengLuYiDuan: "朝圣陆一段"
+ b_BianYuanZouLang: "边缘走廊"
+ b_CHaoSHengLu_CHuFai: "朝圣陆：出发"
+ b_CHaoSHengLu_WeiXian: "朝圣陆：危险"
+ b_CHaoSHengLu_XiWang: "朝圣陆：希望"
+ 
+ #宗教
+ 
+ rf_kos_WuSHenLun: "无神论宗教组"
+ rf_kos_WuSHenLun_hostility_doctrine_name: "无神论宗教组"
+ rf_kos_WuSHenLun_hostility_doctrine_desc: "下列宗教属于无神论宗教组：\n[GetReligionFamily(rf_kos_WuSHenLun).GetReligions]"
+ 
+ kos_WuSHenLun_religion: "无神论"
+ kos_WuSHenLun_religion_adj: "无神论"
+ kos_WuSHenLun_religion_adherent: "无神论者"
+ kos_WuSHenLun_religion_adherent_plural: "无神论者"
+ kos_WuSHenLun_religion_desc: "无神论者认为存在神是不可证实和证伪的，所以世界上没有神，对神的信仰是一段传奇的误传，比如一个人杀死了一只大蛇，后面把它误传为屠龙勇士甚至战神。"
+ 
+ kos_WuSHenLun: "无神论"
+ kos_WuSHenLun_adj: "无神论"
+ #名称
+ kos_WuSHenLun_adherent: "无神论者"
+ kos_WuSHenLun_adherent_plural: "无神论者"
+ #信徒
+ kos_WuSHenLun_desc: "无神论者认为存在神是不可证实和证伪的，所以世界上没有神，对神的信仰是一段传奇的误传，比如一个人杀死了一只大蛇，后面把它误传为屠龙勇士甚至战神。"
+ #简介
+ kos_WuSHenLun_high_god_name: "科学"
+ kos_WuSHenLun_high_god_name_possessive: "科学"
+ #至高神
+ kos_WuSHenLun_high_god_name_alternate: "知识"
+ kos_WuSHenLun_high_god_name_alternate_possessive: "知识"
+ #至高神变体
+ kos_WuSHenLun_creator_god_name: "宇宙大爆炸"
+ kos_WuSHenLun_creator_god_name_possessive: "宇宙大爆炸"
+ #创世神
+ kos_WuSHenLun_health_god_name: "抗生素"
+ kos_WuSHenLun_health_god_name_possessive: "抗生素"
+ #健康神
+ kos_WuSHenLun_fertility_god_name: "母猪的产后护理"
+ kos_WuSHenLun_fertility_god_name_possessive: "母猪的产后护理"
+ #生育神
+ kos_WuSHenLun_wealth_god_name: "印钞机"
+ kos_WuSHenLun_wealth_god_name_possessive: "印钞机"
+ #财神
+ kos_WuSHenLun_household_god_name: "结婚证"
+ kos_WuSHenLun_household_god_name_possessive: "结婚证"
+ #家庭神
+ kos_WuSHenLun_fate_god_name: "蝴蝶效应"
+ kos_WuSHenLun_fate_god_name_possessive: "蝴蝶效应"
+ #命运神
+ kos_WuSHenLun_knowledge_god_name: "逻各斯"
+ kos_WuSHenLun_knowledge_god_name_possessive: "逻各斯"
+ #知识神
+ kos_WuSHenLun_war_god_name: "口径114米的小口径武器"
+ kos_WuSHenLun_war_god_name_possessive: "口径114米的小口径武器"
+ #战争神
+ kos_WuSHenLun_trickster_god_name: "有神论者"
+ kos_WuSHenLun_trickster_god_name_possessive: "有神论者"
+ #骗子神
+ kos_WuSHenLun_night_god_name: "地卫一"
+ kos_WuSHenLun_night_god_name_possessive: "地卫一"
+ #夜神
+ kos_WuSHenLun_water_god_name: "水龙头"
+ kos_WuSHenLun_water_god_name_possessive: "水龙头"
+ #水神
+ kos_WuSHenLun_devil_name: "神"
+ kos_WuSHenLun_devil_name_possessive: "神"
+ #魔鬼
+ kos_WuSHenLun_house_of_worship: "家"
+ kos_WuSHenLun_house_of_worship_plural: "家"
+ #礼拜堂
+ kos_WuSHenLun_religious_symbol: "原子"
+ #宗教象征
+ kos_WuSHenLun_religious_text: "《Atheism Symbol》"
+ #宗教经文
+ kos_WuSHenLun_religious_head_title: "议长"
+ #宗教领袖
+ kos_WuSHenLun_religious_head_title_name: "参议院"
+ #宗教领袖头衔
+ kos_WuSHenLun_devotee_male: "科学家"
+ kos_WuSHenLun_devotee_male_plural: "科学家"
+ #男性修士
+ kos_WuSHenLun_devotee_female: "科学家"
+ kos_WuSHenLun_devotee_female_plural: "科学家"
+ #女性修士
+ kos_WuSHenLun_devotee_neuter: "科学家"
+ kos_WuSHenLun_devotee_neuter_plural: "科学家"
+ #中性修士
+ kos_WuSHenLun_court_chaplain: "律师"
+ kos_WuSHenLun_court_chaplains_possessive: "律师"
+ #牧师
+ kos_WuSHenLun_bishop: "律师"
+ kos_WuSHenLun_bishop_plural: "律师"
+ #主教
+ kos_WuSHenLun_divinerealm: "四维空间"
+ #神界
+ kos_WuSHenLun_positive_afterlife: "永寂"
+ #天堂
+ kos_WuSHenLun_negative_afterlife: "永寂"
+ #阴府
+ kos_WuSHenLun_death_deity_name: "死亡"
+ kos_WuSHenLun_death_deity_name_possessive: "死亡"
+ #死神
+ kos_WuSHenLun_witchgodname_name: "邪神"
+ kos_WuSHenLun_witchgodname_name_possessive: "邪神"
+ #巫术神
+ councillor_court_chaplain_kos_WuSHenLun_county: "律师"
+ councillor_court_chaplain_kos_WuSHenLun_county_possessive: "律师"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_kos_WuSHenLun_duchy: "律师"
+ councillor_court_chaplain_kos_WuSHenLun_duchy_possessive: "律师"
+ #公国级宫廷主教
+ councillor_court_chaplain_kos_WuSHenLun_kingdom: "律师"
+ councillor_court_chaplain_kos_WuSHenLun_kingdom_possessive: "律师"
+ #王国级宫廷主教
+ councillor_court_chaplain_kos_WuSHenLun_empire: "律师"
+ councillor_court_chaplain_kos_WuSHenLun_empire_possessive: "律师"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_kos_WuSHenLun_empire_female: "律师"
+ councillor_court_chaplain_kos_WuSHenLun_empire_female_possessive: "律师"
+ #帝国级宫廷女主教
+ 
+ kos_GongCHanZHuYi: "共产主义"
+ kos_GongCHanZHuYi_adj: "共产主义"
+ #名称
+ kos_GongCHanZHuYi_adherent: "共产主义者"
+ kos_GongCHanZHuYi_adherent_plural: "共产主义者"
+ #信徒
+ kos_GongCHanZHuYi_desc: "无神论者认为存在神是不可证实和证伪的，所以世界上没有神，对神的信仰是一段传奇的误传，比如一个人杀死了一只大蛇，后面把它误传为屠龙勇士甚至战神。"
+ #简介
+ kos_GongCHanZHuYi_high_god_name: "马克思"
+ kos_GongCHanZHuYi_high_god_name_possessive: "马克思"
+ #至高神
+ kos_GongCHanZHuYi_high_god_name_alternate: "恩格斯"
+ kos_GongCHanZHuYi_high_god_name_alternate_possessive: "恩格斯"
+ #至高神变体
+ kos_GongCHanZHuYi_creator_god_name: "马克思"
+ kos_GongCHanZHuYi_creator_god_name_possessive: "马克思"
+ #创世神
+ kos_GongCHanZHuYi_health_god_name: "布哈林"
+ kos_GongCHanZHuYi_health_god_name_possessive: "布哈林"
+ #健康神
+ kos_GongCHanZHuYi_fertility_god_name: "赫鲁晓夫"
+ kos_GongCHanZHuYi_fertility_god_name_possessive: "赫鲁晓夫"
+ #生育神
+ kos_GongCHanZHuYi_wealth_god_name: "斯大林"
+ kos_GongCHanZHuYi_wealth_god_name_possessive: "斯大林"
+ #财神
+ kos_GongCHanZHuYi_household_god_name: "毛泽东"
+ kos_GongCHanZHuYi_household_god_name_possessive: "毛泽东"
+ #家庭神
+ kos_GongCHanZHuYi_fate_god_name: "马克思"
+ kos_GongCHanZHuYi_fate_god_name_possessive: "马克思"
+ #命运神
+ kos_GongCHanZHuYi_knowledge_god_name: "列宁"
+ kos_GongCHanZHuYi_knowledge_god_name_possessive: "列宁"
+ #知识神
+ kos_GongCHanZHuYi_war_god_name: "托洛斯基"
+ kos_GongCHanZHuYi_war_god_name_possessive: "托洛斯基"
+ #战争神
+ kos_GongCHanZHuYi_trickster_god_name: "博尔施坦"
+ kos_GongCHanZHuYi_trickster_god_name_possessive: "博尔施坦"
+ #骗子神
+ kos_GongCHanZHuYi_night_god_name: "江青"
+ kos_GongCHanZHuYi_night_god_name_possessive: "江青"
+ #夜神
+ kos_GongCHanZHuYi_water_god_name: "王洪文"
+ kos_GongCHanZHuYi_water_god_name_possessive: "王洪文"
+ #水神
+ kos_GongCHanZHuYi_devil_name: "资本家"
+ kos_GongCHanZHuYi_devil_name_possessive: "资本家"
+ #魔鬼
+ kos_GongCHanZHuYi_house_of_worship: "公社"
+ kos_GongCHanZHuYi_house_of_worship_plural: "公社"
+ #礼拜堂
+ kos_GongCHanZHuYi_religious_symbol: "镰刀锤子"
+ #宗教象征
+ kos_GongCHanZHuYi_religious_text: "《资本论》"
+ #宗教经文
+ kos_GongCHanZHuYi_religious_head_title: "主席"
+ #宗教领袖
+ kos_GongCHanZHuYi_religious_head_title_name: "最高苏维埃"
+ #宗教领袖头衔
+ kos_GongCHanZHuYi_devotee_male: "党员"
+ kos_GongCHanZHuYi_devotee_male_plural: "党员"
+ #男性修士
+ kos_GongCHanZHuYi_devotee_female: "党员"
+ kos_GongCHanZHuYi_devotee_female_plural: "党员"
+ #女性修士
+ kos_GongCHanZHuYi_devotee_neuter: "党员"
+ kos_GongCHanZHuYi_devotee_neuter_plural: "党员"
+ #中性修士
+ kos_GongCHanZHuYi_court_chaplain: "政委"
+ kos_GongCHanZHuYi_court_chaplains_possessive: "政委"
+ #牧师
+ kos_GongCHanZHuYi_bishop: "政委"
+ kos_GongCHanZHuYi_bishop_plural: "政委"
+ #主教
+ kos_GongCHanZHuYi_divinerealm: "四维空间"
+ #神界
+ kos_GongCHanZHuYi_positive_afterlife: "乌托邦"
+ #天堂
+ kos_GongCHanZHuYi_negative_afterlife: "勃艮第"
+ #地狱
+ kos_GongCHanZHuYi_death_deity_name: "萨布林"
+ kos_GongCHanZHuYi_death_deity_name_possessive: "萨布林"
+ #死神
+ kos_GongCHanZHuYi_witchgodname_name: "博尔施坦"
+ kos_GongCHanZHuYi_witchgodname_name_possessive: "博尔施坦"
+ #巫术神
+ councillor_court_chaplain_kos_GongCHanZHuYi_county: "政委"
+ councillor_court_chaplain_kos_GongCHanZHuYi_county_possessive: "政委"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_kos_GongCHanZHuYi_duchy: "政委"
+ councillor_court_chaplain_kos_GongCHanZHuYi_duchy_possessive: "政委"
+ #公国级宫廷主教
+ councillor_court_chaplain_kos_GongCHanZHuYi_kingdom: "政委"
+ councillor_court_chaplain_kos_GongCHanZHuYi_kingdom_possessive: "政委"
+ #王国级宫廷主教
+ councillor_court_chaplain_kos_GongCHanZHuYi_empire: "政委"
+ councillor_court_chaplain_kos_GongCHanZHuYi_empire_possessive: "政委"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_kos_GongCHanZHuYi_empire_female: "政委"
+ councillor_court_chaplain_kos_GongCHanZHuYi_empire_female_possessive: "政委"
+ #帝国级宫廷女主教
+ 
+ rf_kos_NanGua_PingGuo: "阿特图伊-图其宗教组"
+ rf_kos_NanGua_PingGuo_hostility_doctrine_name: "阿特图伊-图其宗教组"
+ rf_kos_NanGua_PingGuo_hostility_doctrine_desc: "下列宗教属于阿特图伊-图其宗教组：\n[GetReligionFamily(rf_kos_NanGua_PingGuo).GetReligions]"
+ 
+ kos_aateerhert_religion: "阿特儿赫特"
+ kos_aateerhert_religion_adj: "阿特儿赫特"
+ kos_aateerhert_religion_adherent: "信仰阿特儿赫特的人"
+ kos_aateerhert_religion_adherent_plural: "信仰阿特儿赫特的人"
+ kos_aateerhert_religion_desc: "阿特儿赫特起源于原始阿特图伊人对星空的信仰，他们认为星空是一切的起源以为星空为战为荣。"
+ 
+ #kos_qitve_aateerhert: "阿特图伊儿-其特维儿赫特"
+ #kos_qitve_aateerhert_adj: "阿特图伊儿赫特-其特维儿赫特"
+ #名称
+ #kos_qitve_aateerhert_adherent: "阿特图伊其特"
+ #kos_qitve_aateerhert_adherent_plural: "阿特图伊其特"
+ #信徒
+ #kos_qitve_aateerhert_pagan_old: "旧其特维儿赫特"
+ #kos_qitve_aateerhert_pagan_old_adj: "旧其特维儿赫特"
+ #教改后名称（教改出现的是新宗教）
+ #kos_qitve_aateerhert_pagan_old_adherent: "旧阿特图伊其特"
+ #kos_qitve_aateerhert_pagan_old_adherent_plural: "旧阿特图伊其特"
+ #教改后信徒（教改出现的是新宗教）
+ kos_qitve_aateerhert: "其特维派"
+ kos_qitve_aateerhert_adj: "其特维派阿特儿赫特"
+ #名称
+ kos_qitve_aateerhert_adherent: "信仰其特维派的人"
+ kos_qitve_aateerhert_adherent_plural: "信仰其特维派的人"
+ #信徒
+ kos_qitve_aateerhert_pagan_old: "旧其特维派"
+ kos_qitve_aateerhert_pagan_old_adj: "旧其特维派阿特儿赫特"
+ #教改后名称（教改出现的是新宗教）
+ kos_qitve_aateerhert_pagan_old_adherent: "信仰旧其特维派的人"
+ kos_qitve_aateerhert_pagan_old_adherent_plural: "信仰旧其特维派的人"
+ #教改后信徒（教改出现的是新宗教）
+ kos_qitve_aateerhert_desc: "最原始的阿特图伊信仰，他们认为是星空中诞生了现在的一切，和其他派别不同的是他们认为太阳也是星空的一部分，"
+ #简介
+ kos_qitve_aateerhert_high_god_name: "星辰"
+ kos_qitve_aateerhert_high_god_name_possessive: "星辰"
+ #至高神
+ kos_qitve_aateerhert_high_god_name_alternate: "繁星"
+ kos_qitve_aateerhert_high_god_name_alternate_possessive: "繁星"
+ #至高神变体
+ kos_qitve_aateerhert_creator_god_name: "星辰"
+ kos_qitve_aateerhert_creator_god_name_possessive: "星辰"
+ #创世神
+ kos_qitve_aateerhert_health_god_name: "星辰"
+ kos_qitve_aateerhert_health_god_name_possessive: "星辰"
+ #健康神
+ kos_qitve_aateerhert_fertility_god_name: "星辰"
+ kos_qitve_aateerhert_fertility_god_name_possessive: "星辰"
+ #生育神
+ kos_qitve_aateerhert_wealth_god_name: "星辰"
+ kos_qitve_aateerhert_wealth_god_name_possessive: "星辰"
+ #财神
+ kos_qitve_aateerhert_household_god_name: "星辰"
+ kos_qitve_aateerhert_household_god_name_possessive: "星辰"
+ #家庭神
+ kos_qitve_aateerhert_fate_god_name: "星辰"
+ kos_qitve_aateerhert_fate_god_name_possessive: "星辰"
+ #命运神
+ kos_qitve_aateerhert_knowledge_god_name: "星辰"
+ kos_qitve_aateerhert_knowledge_god_name_possessive: "星辰"
+ #知识神
+ kos_qitve_aateerhert_war_god_name: "斯特阿"
+ kos_qitve_aateerhert_war_god_name_possessive: "斯特阿"
+ #战争神
+ kos_qitve_aateerhert_trickster_god_name: "星辰"
+ kos_qitve_aateerhert_trickster_god_name_possessive: "星辰"
+ #骗子神
+ kos_qitve_aateerhert_night_god_name: "星辰"
+ kos_qitve_aateerhert_night_god_name_possessive: "星辰"
+ #夜神
+ kos_qitve_aateerhert_water_god_name: "星辰"
+ kos_qitve_aateerhert_water_god_name_possessive: "星辰"
+ #水神
+ kos_qitve_aateerhert_devil_name: "斯特阿"
+ kos_qitve_aateerhert_devil_name_possessive: "斯特阿"
+ #魔鬼
+ kos_qitve_aateerhert_evil_god: "斯特阿"
+ kos_qitve_aateerhert_evil_god_possessive: "斯特阿"
+ #邪神
+ kos_qitve_aateerhert_house_of_worship: "空地"
+ kos_qitve_aateerhert_house_of_worship_plural: "空地"
+ #礼拜堂
+ kos_qitve_aateerhert_religious_symbol: "其特维阿儿其赫特"
+ #宗教象征
+ kos_qitve_aateerhert_religious_text: "《弥阿图儿其耳》"
+ #宗教经文
+ kos_qitve_aateerhert_religious_head_title: "长老之首"
+ #宗教领袖
+ kos_qitve_aateerhert_religious_head_title_name: "长老议会"
+ #宗教领袖头衔
+ kos_qitve_aateerhert_devotee_male: "长老学徒"
+ kos_qitve_aateerhert_devotee_male_plural: "长老学徒"
+ #男性修士
+ kos_qitve_aateerhert_devotee_female: "长老学徒"
+ kos_qitve_aateerhert_devotee_female_plural: "长老学徒"
+ #女性修士
+ kos_qitve_aateerhert_devotee_neuter: "长老学徒"
+ kos_qitve_aateerhert_devotee_neuter_plural: "长老学徒"
+ #中性修士
+ kos_qitve_aateerhert_court_chaplain: "长老"
+ kos_qitve_aateerhert_court_chaplains_possessive: "长老"
+ #牧师
+ kos_qitve_aateerhert_bishop: "长老"
+ kos_qitve_aateerhert_bishop_plural: "长老"
+ #主教
+ kos_qitve_aateerhert_divinerealm: "星空"
+ #神界
+ kos_qitve_aateerhert_positive_afterlife: "永寂"
+ #天堂
+ kos_qitve_aateerhert_negative_afterlife: "永寂"
+ #阴府
+ kos_qitve_aateerhert_death_deity_name: "死亡"
+ kos_qitve_aateerhert_death_deity_name_possessive: "死亡"
+ #死神
+ kos_qitve_aateerhert_witchgodname_name: "星辰"
+ kos_qitve_aateerhert_witchgodname_name_possessive: "星辰"
+ #巫术神
+ councillor_court_chaplain_kos_qitve_aateerhert_county: "长老"
+ councillor_court_chaplain_kos_qitve_aateerhert_county_possessive: "长老"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_kos_qitve_aateerhert_duchy: "长老"
+ councillor_court_chaplain_kos_qitve_aateerhert_duchy_possessive: "长老"
+ #公国级宫廷主教
+ councillor_court_chaplain_kos_qitve_aateerhert_kingdom: "长老"
+ councillor_court_chaplain_kos_qitve_aateerhert_kingdom_possessive: "长老"
+ #王国级宫廷主教
+ councillor_court_chaplain_kos_qitve_aateerhert_empire: "长老"
+ councillor_court_chaplain_kos_qitve_aateerhert_empire_possessive: "长老"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_kos_qitve_aateerhert_empire_female: "长老"
+ councillor_court_chaplain_kos_qitve_aateerhert_empire_female_possessive: "长老"
+ #帝国级宫廷女主教
+ 
+ kos_AatTuierhkovo_Leilida: "阿特图伊儿-垒利达"
+ kos_AatTuierhkovo_Leilida_adj: "阿特图伊儿赫特-垒利达"
+ #名称
+ kos_AatTuierhkovo_Leilida_adherent: "阿特图伊垒利达"
+ kos_AatTuierhkovo_Leilida_adherent_plural: "阿特图伊垒利达"
+ #信徒
+ kos_AatTuierhkovo_Leilida_pagan_old: "旧垒利达"
+ kos_AatTuierhkovo_Leilida_pagan_old_adj: "旧垒利达"
+ #教改后名称（教改出现的是新宗教）
+ kos_AatTuierhkovo_Leilida_pagan_old_adherent: "旧阿特图伊垒利达"
+ kos_AatTuierhkovo_Leilida_pagan_old_adherent_plural: "旧阿特图伊垒利达"
+ #教改后信徒（教改出现的是新宗教）
+ kos_AatTuierhkovo_Leilida_desc: "世界最初只有点点繁星，就在这繁星之间诞生了：图伊，祂创造了世界，特丹达，可祂独享星空，创造了格尔特丹达将世界罩住，但星空的光将罩子侵蚀出空洞让我们的祖先第一次见到星空。繁星在看到祂的所作所为后诞生了：斯特阿，但祂的漫长身躯将支撑世界和罩子的世界树摧毁，罩子立刻坍塌世界也失去活性，就在这场灾难的时候四个部落的酋长站了出来，他们和斯特阿一起将罩子支撑，慢慢的变成五根石柱，可世界已经无法生存，我们的祖先只能往罩子上爬，他们发现罩子星空的滋养下生机勃勃。"
+ #简介
+ kos_AatTuierhkovo_Leilida_high_god_name: "星辰"
+ kos_AatTuierhkovo_Leilida_high_god_name_possessive: "星辰"
+ #至高神
+ kos_AatTuierhkovo_Leilida_high_god_name_alternate: "繁星"
+ kos_AatTuierhkovo_Leilida_high_god_name_alternate_possessive: "繁星"
+ #至高神变体
+ kos_AatTuierhkovo_Leilida_creator_god_name: "图伊"
+ kos_AatTuierhkovo_Leilida_creator_god_name_possessive: "图伊"
+ #创世神
+ kos_AatTuierhkovo_Leilida_health_god_name: "祖先"
+ kos_AatTuierhkovo_Leilida_health_god_name_possessive: "祖先"
+ #健康神
+ kos_AatTuierhkovo_Leilida_fertility_god_name: "祖先"
+ kos_AatTuierhkovo_Leilida_fertility_god_name_possessive: "祖先"
+ #生育神
+ kos_AatTuierhkovo_Leilida_wealth_god_name: "祖先"
+ kos_AatTuierhkovo_Leilida_wealth_god_name_possessive: "祖先"
+ #财神
+ kos_AatTuierhkovo_Leilida_household_god_name: "祖先"
+ kos_AatTuierhkovo_Leilida_household_god_name_possessive: "祖先"
+ #家庭神
+ kos_AatTuierhkovo_Leilida_fate_god_name: "祖先"
+ kos_AatTuierhkovo_Leilida_fate_god_name_possessive: "祖先"
+ #命运神
+ kos_AatTuierhkovo_Leilida_knowledge_god_name: "祖先"
+ kos_AatTuierhkovo_Leilida_knowledge_god_name_possessive: "祖先"
+ #知识神
+ kos_AatTuierhkovo_Leilida_war_god_name: "斯特阿"
+ kos_AatTuierhkovo_Leilida_war_god_name_possessive: "斯特阿"
+ #战争神
+ kos_AatTuierhkovo_Leilida_trickster_god_name: "图伊"
+ kos_AatTuierhkovo_Leilida_trickster_god_name_possessive: "图伊"
+ #骗子神
+ kos_AatTuierhkovo_Leilida_night_god_name: "星辰"
+ kos_AatTuierhkovo_Leilida_night_god_name_possessive: "星辰"
+ #夜神
+ kos_AatTuierhkovo_Leilida_water_god_name: "星辰"
+ kos_AatTuierhkovo_Leilida_water_god_name_possessive: "星辰"
+ #水神
+ kos_AatTuierhkovo_Leilida_devil_name: "斯特阿"
+ kos_AatTuierhkovo_Leilida_devil_name_possessive: "斯特阿"
+ #魔鬼
+ kos_AatTuierhkovo_Leilida_evil_god: "斯特阿"
+ kos_AatTuierhkovo_Leilida_evil_god_possessive: "斯特阿"
+ #邪神
+ kos_AatTuierhkovo_Leilida_house_of_worship: "空地"
+ kos_AatTuierhkovo_Leilida_house_of_worship_plural: "空地"
+ #礼拜堂
+ kos_AatTuierhkovo_Leilida_religious_symbol: "祖先和星辰"
+ #宗教象征
+ kos_AatTuierhkovo_Leilida_religious_text: "《祖先传奇》"
+ #宗教经文
+ kos_AatTuierhkovo_Leilida_religious_head_title: "长老之首"
+ #宗教领袖
+ kos_AatTuierhkovo_Leilida_religious_head_title_name: "长老议会"
+ #宗教领袖头衔
+ kos_AatTuierhkovo_Leilida_devotee_male: "长老学徒"
+ kos_AatTuierhkovo_Leilida_devotee_male_plural: "长老学徒"
+ #男性修士
+ kos_AatTuierhkovo_Leilida_devotee_female: "长老学徒"
+ kos_AatTuierhkovo_Leilida_devotee_female_plural: "长老学徒"
+ #女性修士
+ kos_AatTuierhkovo_Leilida_devotee_neuter: "长老学徒"
+ kos_AatTuierhkovo_Leilida_devotee_neuter_plural: "长老学徒"
+ #中性修士
+ kos_AatTuierhkovo_Leilida_court_chaplain: "长老"
+ kos_AatTuierhkovo_Leilida_court_chaplains_possessive: "长老"
+ #牧师
+ kos_AatTuierhkovo_Leilida_bishop: "长老"
+ kos_AatTuierhkovo_Leilida_bishop_plural: "长老"
+ #主教
+ kos_AatTuierhkovo_Leilida_divinerealm: "星空"
+ #神界
+ kos_AatTuierhkovo_Leilida_positive_afterlife: "永寂"
+ #天堂
+ kos_AatTuierhkovo_Leilida_negative_afterlife: "永寂"
+ #阴府
+ kos_AatTuierhkovo_Leilida_death_deity_name: "死亡"
+ kos_AatTuierhkovo_Leilida_death_deity_name_possessive: "死亡"
+ #死神
+ kos_AatTuierhkovo_Leilida_witchgodname_name: "邪神"
+ kos_AatTuierhkovo_Leilida_witchgodname_name_possessive: "邪神"
+ #巫术神
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_county: "长老"
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_county_possessive: "长老"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_duchy: "长老"
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_duchy_possessive: "长老"
+ #公国级宫廷主教
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_kingdom: "长老"
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_kingdom_possessive: "长老"
+ #王国级宫廷主教
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_empire: "长老"
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_empire_possessive: "长老"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_empire_female: "长老"
+ councillor_court_chaplain_kos_AatTuierhkovo_Leilida_empire_female_possessive: "长老"
+ #帝国级宫廷女主教
+ 
+ #kos_AatTuierhkovo_Moarasrasts: "阿特图伊儿-莫阿喇腊刺"
+ #kos_AatTuierhkovo_Moarasrasts_adj: "阿特图伊儿赫特-莫阿喇腊刺"
+ #名称
+ #kos_AatTuierhkovo_Moarasrasts_adherent: "阿特图伊阿喇"
+ #kos_AatTuierhkovo_Moarasrasts_adherent_plural: "阿特图伊阿喇"
+ #信徒
+ kos_swacha_aateerhert: "斯瓦嚓派"
+ kos_swacha_aateerhert_adj: "斯瓦嚓派阿特儿赫特"
+ #名称
+ kos_swacha_aateerhert_adherent: "信仰斯瓦嚓派的人"
+ kos_swacha_aateerhert_adherent_plural: "信仰斯瓦嚓派的人"
+ #信徒
+ #kos_AatTuierhkovo_Moarasrasts_desc: "起源于其特维儿赫特-斯瓦嚓的为星空而战的传统，他们最开始是原始阿特图伊人的“骑士”，后来在斯特阿的带领下独立于传统阿特图伊人。因此被传统阿特图伊人敌视。"
+ kos_swacha_aateerhert_desc: "原始阿特图伊人的骑士阶级其特维儿赫特-斯瓦嚓有为星空而战的传统，他们逐渐与传统阿特图伊儿-其特维儿赫特的信仰产生偏差，但总体体还是相安无事，直到阿儿朵斯父子建立图伊派，大部分其特维儿赫特信徒改信组织化的图伊派，与只信仰黑夜的斯瓦嚓不同甚至是差别甚远，他们认为太阳是一个独立的神，他们开始大肆抓捕斯瓦嚓派，直到斯特阿把斯瓦嚓派信徒组织在一起。"
+ #简介
+ kos_swacha_aateerhert_high_god_name: "星辰"
+ kos_swacha_aateerhert_high_god_name_possessive: "星辰"
+ #至高神
+ kos_swacha_aateerhert_high_god_name_alternate: "繁星"
+ kos_swacha_aateerhert_high_god_name_alternate_possessive: "繁星"
+ #至高神变体
+ kos_swacha_aateerhert_creator_god_name: "星辰"
+ kos_swacha_aateerhert_creator_god_name_possessive: "星辰"
+ #创世神
+ kos_swacha_aateerhert_health_god_name: "星辰"
+ kos_swacha_aateerhert_health_god_name_possessive: "星辰"
+ #健康神
+ kos_swacha_aateerhert_fertility_god_name: "星辰"
+ kos_swacha_aateerhert_fertility_god_name_possessive: "星辰"
+ #生育神
+ kos_swacha_aateerhert_wealth_god_name: "星辰"
+ kos_swacha_aateerhert_wealth_god_name_possessive: "星辰"
+ #财神
+ kos_swacha_aateerhert_household_god_name: "星辰"
+ kos_swacha_aateerhert_household_god_name_possessive: "星辰"
+ #家庭神
+ kos_swacha_aateerhert_fate_god_name: "星辰"
+ kos_swacha_aateerhert_fate_god_name_possessive: "星辰"
+ #命运神
+ kos_swacha_aateerhert_knowledge_god_name: "星辰"
+ kos_swacha_aateerhert_knowledge_god_name_possessive: "星辰"
+ #知识神
+ kos_swacha_aateerhert_war_god_name: "斯特阿"
+ kos_swacha_aateerhert_war_god_name_possessive: "斯特阿"
+ #战争神
+ kos_swacha_aateerhert_trickster_god_name: "星辰"
+ kos_swacha_aateerhert_trickster_god_name_possessive: "星辰"
+ #骗子神
+ kos_swacha_aateerhert_night_god_name: "星辰"
+ kos_swacha_aateerhert_night_god_name_possessive: "星辰"
+ #夜神
+ kos_swacha_aateerhert_water_god_name: "星辰"
+ kos_swacha_aateerhert_water_god_name_possessive: "星辰"
+ #水神
+ kos_swacha_aateerhert_devil_name: "阿儿朵斯"
+ kos_swacha_aateerhert_devil_name_possessive: "阿儿朵斯"
+ #魔鬼
+ kos_swacha_aateerhert_evil_god: "阿儿朵斯"
+ kos_swacha_aateerhert_evil_god_possessive: "阿儿朵斯"
+ #邪神
+ kos_swacha_aateerhert_house_of_worship: "空地"
+ kos_swacha_aateerhert_house_of_worship_plural: "空地"
+ #礼拜堂
+ kos_swacha_aateerhert_religious_symbol: "其特维阿儿其赫特"
+ #宗教象征
+ kos_swacha_aateerhert_religious_text: "《斯特瓦嚓》"
+ #宗教经文
+ kos_swacha_aateerhert_religious_head_title: "斯特阿阿耳" #向斯特阿一样统治
+ #宗教领袖
+ kos_swacha_aateerhert_religious_head_title_name: "斯瓦嚓儿其刺"
+ #宗教领袖头衔
+ kos_swacha_aateerhert_devotee_male: "斯特瓦嚓" #作为斯瓦嚓接近斯特阿，但斯特阿已经没有阿了，表示逐渐融为一体
+ kos_swacha_aateerhert_devotee_male_plural: "斯特瓦嚓"
+ #男性修士
+ kos_swacha_aateerhert_devotee_female: "斯特瓦嚓"
+ kos_swacha_aateerhert_devotee_female_plural: "斯特瓦嚓"
+ #女性修士
+ kos_swacha_aateerhert_devotee_neuter: "斯特瓦嚓"
+ kos_swacha_aateerhert_devotee_neuter_plural: "斯特瓦嚓"
+ #中性修士
+ kos_swacha_aateerhert_court_chaplain: "斯特阿瓦嚓" #作为斯瓦嚓接近斯特阿
+ kos_swacha_aateerhert_court_chaplains_possessive: "斯特阿瓦嚓"
+ #牧师
+ kos_swacha_aateerhert_bishop: "斯特阿瓦嚓"
+ kos_swacha_aateerhert_bishop_plural: "斯特阿瓦嚓"
+ #主教
+ kos_swacha_aateerhert_divinerealm: "星空"
+ #神界
+ kos_swacha_aateerhert_positive_afterlife: "永寂"
+ #天堂
+ kos_swacha_aateerhert_negative_afterlife: "永寂"
+ #阴府
+ kos_swacha_aateerhert_death_deity_name: "死亡"
+ kos_swacha_aateerhert_death_deity_name_possessive: "死亡"
+ #死神
+ kos_swacha_aateerhert_witchgodname_name: "星辰"
+ kos_swacha_aateerhert_witchgodname_name_possessive: "星辰"
+ #巫术神
+ councillor_court_chaplain_kos_swacha_aateerhert_county: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_county_possessive: "斯特阿瓦嚓"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_kos_swacha_aateerhert_duchy: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_duchy_possessive: "斯特阿瓦嚓"
+ #公国级宫廷主教
+ councillor_court_chaplain_kos_swacha_aateerhert_kingdom: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_kingdom_possessive: "斯特阿瓦嚓"
+ #王国级宫廷主教
+ councillor_court_chaplain_kos_swacha_aateerhert_empire: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_empire_possessive: "斯特阿瓦嚓"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_kos_swacha_aateerhert_empire_female: "斯特阿瓦嚓"
+ councillor_court_chaplain_kos_swacha_aateerhert_empire_female_possessive: "斯特阿瓦嚓"
+ #帝国级宫廷女主教
+ 
+ kos_tui_aateerhert: "图伊派"
+ kos_tui_aateerhert_adj: "图伊派阿特儿赫特"
+ #名称
+ kos_tui_aateerhert_adherent: "信仰图伊派的人"
+ kos_tui_aateerhert_adherent_plural: "信仰图伊派的人"
+ #信徒
+ kos_tui_aateerhert_desc: "在莫腊刺时期阿特图伊人大部分都信仰未改革的阿特图伊儿-其特维儿赫特，少部分信仰斯瓦嚓派，阿儿朵斯致力要规范化其特维儿赫特，但先阿规范未半而中道崩殂。阿儿朵斯二世继续规范化，但在里面夹带私货，认为世界上不止繁星一个神，而是两个神，分别是代表黑夜的繁星和代表白昼的图伊，他们与只信仰繁星的斯瓦嚓派对立。"
+ #简介
+ kos_tui_aateerhert_high_god_name: "星辰"
+ kos_tui_aateerhert_high_god_name_possessive: "星辰"
+ #至高神
+ kos_tui_aateerhert_high_god_name_alternate: "繁星"
+ kos_tui_aateerhert_high_god_name_alternate_possessive: "繁星"
+ #至高神变体
+ kos_tui_aateerhert_creator_god_name: "星辰"
+ kos_tui_aateerhert_creator_god_name_possessive: "星辰"
+ #创世神
+ kos_tui_aateerhert_health_god_name: "图伊"
+ kos_tui_aateerhert_health_god_name_possessive: "图伊"
+ #健康神
+ kos_tui_aateerhert_fertility_god_name: "星辰"
+ kos_tui_aateerhert_fertility_god_name_possessive: "星辰"
+ #生育神
+ kos_tui_aateerhert_wealth_god_name: "星辰"
+ kos_tui_aateerhert_wealth_god_name_possessive: "星辰"
+ #财神
+ kos_tui_aateerhert_household_god_name: "星辰"
+ kos_tui_aateerhert_household_god_name_possessive: "星辰"
+ #家庭神
+ kos_tui_aateerhert_fate_god_name: "图伊"
+ kos_tui_aateerhert_fate_god_name_possessive: "图伊"
+ #命运神
+ kos_tui_aateerhert_knowledge_god_name: "阿儿朵斯"
+ kos_tui_aateerhert_knowledge_god_name_possessive: "阿儿朵斯"
+ #知识神
+ kos_tui_aateerhert_war_god_name: "图伊"
+ kos_tui_aateerhert_war_god_name_possessive: "图伊"
+ #战争神
+ kos_tui_aateerhert_trickster_god_name: "星辰"
+ kos_tui_aateerhert_trickster_god_name_possessive: "星辰"
+ #骗子神
+ kos_tui_aateerhert_night_god_name: "星辰"
+ kos_tui_aateerhert_night_god_name_possessive: "星辰"
+ #夜神
+ kos_tui_aateerhert_water_god_name: "星辰"
+ kos_tui_aateerhert_water_god_name_possessive: "星辰"
+ #水神
+ kos_tui_aateerhert_devil_name: "斯特阿"
+ kos_tui_aateerhert_devil_name_possessive: "斯特阿"
+ #魔鬼
+ kos_tui_aateerhert_evil_god: "斯特阿"
+ kos_tui_aateerhert_evil_god_possessive: "斯特阿"
+ #邪神
+ kos_tui_aateerhert_house_of_worship: "空地"
+ kos_tui_aateerhert_house_of_worship_plural: "空地"
+ #礼拜堂
+ kos_tui_aateerhert_religious_symbol: "星日"
+ #宗教象征
+ kos_tui_aateerhert_religious_text: "《阿儿朵斯父子》"
+ #宗教经文
+ kos_tui_aateerhert_religious_head_title: "阿尔图伊 #在莫阿朵腊刺派里阿尔是神职人员的称呼，图伊代表神圣
+ #宗教领袖
+ kos_tui_aateerhert_religious_head_title_name: "阿尔议会"
+ #宗教领袖头衔
+ kos_tui_aateerhert_devotee_male: "阿尔嚓" #在莫阿朵腊刺派里阿尔是神职人员的称呼，嚓是指斯瓦嚓，最开始是指改信阿朵腊刺派的斯瓦嚓人，后来变成为神奉献自己的人
+ kos_tui_aateerhert_devotee_male_plural: "阿尔嚓"
+ #男性修士
+ kos_tui_aateerhert_devotee_female: "阿尔嚓"
+ kos_tui_aateerhert_devotee_female_plural: "阿尔嚓"
+ #女性修士
+ kos_tui_aateerhert_devotee_neuter: "阿尔嚓"
+ kos_tui_aateerhert_devotee_neuter_plural: "阿尔嚓"
+ #中性修士
+ kos_tui_aateerhert_court_chaplain: "阿尔" #在莫阿朵腊刺派里阿尔是神职人员的称呼
+ kos_tui_aateerhert_court_chaplains_possessive: "阿尔"
+ #牧师
+ kos_tui_aateerhert_bishop: "阿尔"
+ kos_tui_aateerhert_bishop_plural: "阿尔"
+ #主教
+ kos_tui_aateerhert_divinerealm: "星空"
+ #神界
+ kos_tui_aateerhert_positive_afterlife: "永寂"
+ #天堂
+ kos_tui_aateerhert_negative_afterlife: "永寂"
+ #阴府
+ kos_tui_aateerhert_death_deity_name: "死亡"
+ kos_tui_aateerhert_death_deity_name_possessive: "死亡"
+ #死神
+ kos_tui_aateerhert_witchgodname_name: "星辰"
+ kos_tui_aateerhert_witchgodname_name_possessive: "星辰"
+ #巫术神
+ councillor_court_chaplain_kos_tui_aateerhert_county: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_county_possessive: "阿尔"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_kos_tui_aateerhert_duchy: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_duchy_possessive: "阿尔"
+ #公国级宫廷主教
+ councillor_court_chaplain_kos_tui_aateerhert_kingdom: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_kingdom_possessive: "阿尔"
+ #王国级宫廷主教
+ councillor_court_chaplain_kos_tui_aateerhert_empire: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_empire_possessive: "阿尔"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_kos_tui_aateerhert_empire_female: "阿尔"
+ councillor_court_chaplain_kos_tui_aateerhert_empire_female_possessive: "阿尔"
+ #帝国级宫廷女主教
+ 
+ 
+ kos_Tuqi_religion: "图其信仰"
+ kos_Tuqi_religion_adj: "图其信仰"
+ kos_Tuqi_religion_adherent: "图其信徒"
+ kos_Tuqi_religion_adherent_plural: "图其信徒"
+ #kos_Tuqi_religion_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的，阿特图伊人的入侵还导致原始图其人认为世界是两层的。"
+ kos_Tuqi_religion_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的.图其信仰还有一点很奇怪，祭司的权力非常小，甚至可以被随意更换，但他们掌管司法，有处刑的权力。\n\n世界最初只有无尽的虚无，但在这虚无之中诞生了一股能量，这股能量被称为“图其”，祂创造了世界，又或者说祂就是世界本身，世界的下半部分是图其人生活的地方，他们是神的仆从，中间是阿特图伊人生活的地方，他们是神的武器，上面是死后去的地方，那里能看见神本身。"
+ 
+ kos_Tuqi: "图其"
+ kos_Tuqi_adj: "图其"
+ #名称
+ kos_Tuqi_adherent: "图其信徒"
+ kos_Tuqi_adherent_plural: "图其信徒"
+ #信徒
+ kos_Tuqi_pagan_old: "旧图其"
+ kos_Tuqi_pagan_old_adj: "旧图其"
+ #教改后名称（教改出现的是新宗教）
+ kos_Tuqi_pagan_old_adherent: "旧图其信徒"
+ kos_Tuqi_pagan_old_adherent_plural: "旧图其信徒"
+ #教改后信徒（教改出现的是新宗教）
+ kos_Tuqi_desc: "图其信仰绕不开图其二字，图其人，准确来说是山地图其人认为“图其”是死后世界，是唯一真神，是世界的一切，这毫无疑问是阿特图伊人的入侵导致的.图其信仰还有一点很奇怪，祭司的权力非常小，甚至可以被随意更换，但他们掌管司法，有处刑的权力。\n\n世界最初只有无尽的虚无，但在这虚无之中诞生了一股能量，这股能量被称为“图其”，祂创造了世界，又或者说祂就是世界本身，世界的下半部分是图其人生活的地方，他们是神的仆从，中间是阿特图伊人生活的地方，他们是神的武器，上面是死后去的地方，那里能看见神本身。"
+ #简介
+ kos_Tuqi_high_god_name: "图其"
+ kos_Tuqi_high_god_name_possessive: "图其"
+ #至高神
+ kos_Tuqi_high_god_name_alternate: "图其"
+ kos_Tuqi_high_god_name_alternate_possessive: "图其"
+ #至高神变体
+ kos_Tuqi_creator_god_name: "图其"
+ kos_Tuqi_creator_god_name_possessive: "图其"
+ #创世神
+ kos_Tuqi_health_god_name: "图其"
+ kos_Tuqi_health_god_name_possessive: "图其"
+ #健康神
+ kos_Tuqi_fertility_god_name: "图其"
+ kos_Tuqi_fertility_god_name_possessive: "图其"
+ #生育神
+ kos_Tuqi_wealth_god_name: "图其"
+ kos_Tuqi_wealth_god_name_possessive: "图其"
+ #财神
+ kos_Tuqi_household_god_name: "图其"
+ kos_Tuqi_household_god_name_possessive: "图其"
+ #家庭神
+ kos_Tuqi_fate_god_name: "图其"
+ kos_Tuqi_fate_god_name_possessive: "图其"
+ #命运神
+ kos_Tuqi_knowledge_god_name: "图其"
+ kos_Tuqi_knowledge_god_name_possessive: "图其"
+ #知识神
+ kos_Tuqi_war_god_name: "图其"
+ kos_Tuqi_war_god_name_possessive: "图其"
+ #战争神
+ kos_Tuqi_trickster_god_name: "图其"
+ kos_Tuqi_trickster_god_name_possessive: "图其"
+ #骗子神
+ kos_Tuqi_night_god_name: "图其"
+ kos_Tuqi_night_god_name_possessive: "图其"
+ #夜神
+ kos_Tuqi_water_god_name: "图其"
+ kos_Tuqi_water_god_name_possessive: "图其"
+ #水神
+ kos_Tuqi_devil_name: "图其"
+ kos_Tuqi_devil_name_possessive: "图其"
+ #魔鬼
+ kos_Tuqi_evil_god: "图其"
+ kos_Tuqi_evil_god_possessive: "图其"
+ #邪神
+ kos_Tuqi_house_of_worship: "祝福山洞"
+ kos_Tuqi_house_of_worship_plural: "祝福山洞"
+ #礼拜堂
+ kos_Tuqi_religious_symbol: "果"
+ #宗教象征
+ kos_Tuqi_religious_text: "《论图其》"
+ #宗教经文
+ kos_Tuqi_religious_head_title: "大祭司"
+ #宗教领袖
+ kos_Tuqi_religious_head_title_name: "祭司会"
+ #宗教领袖头衔
+ kos_Tuqi_devotee_male: "祭司学徒"
+ kos_Tuqi_devotee_male_plural: "祭司学徒"
+ #男性修士
+ kos_Tuqi_devotee_female: "祭司学徒"
+ kos_Tuqi_devotee_female_plural: "祭司学徒"
+ #女性修士
+ kos_Tuqi_devotee_neuter: "祭司学徒"
+ kos_Tuqi_devotee_neuter_plural: "祭司学徒"
+ #中性修士
+ kos_Tuqi_court_chaplain: "祭司"
+ kos_Tuqi_court_chaplains_possessive: "祭司"
+ #牧师
+ kos_Tuqi_bishop: "祭司"
+ kos_Tuqi_bishop_plural: "祭司"
+ #主教
+ kos_Tuqi_divinerealm: "图其"
+ #神界
+ kos_Tuqi_positive_afterlife: "图其"
+ #天堂
+ kos_Tuqi_negative_afterlife: "图其"
+ #阴府
+ kos_Tuqi_death_deity_name: "图其"
+ kos_Tuqi_death_deity_name_possessive: "图其"
+ #死神
+ kos_Tuqi_witchgodname_name: "图其"
+ kos_Tuqi_witchgodname_name_possessive: "图其"
+ #巫术神
+ councillor_court_chaplain_kos_Tuqi_county: "祭司"
+ councillor_court_chaplain_kos_Tuqi_county_possessive: "祭司"
+ #伯爵级宫廷主教
+ councillor_court_chaplain_kos_Tuqi_duchy: "祭司"
+ councillor_court_chaplain_kos_Tuqi_duchy_possessive: "祭司"
+ #公国级宫廷主教
+ councillor_court_chaplain_kos_Tuqi_kingdom: "祭司"
+ councillor_court_chaplain_kos_Tuqi_kingdom_possessive: "祭司"
+ #王国级宫廷主教
+ councillor_court_chaplain_kos_Tuqi_empire: "祭司"
+ councillor_court_chaplain_kos_Tuqi_empire_possessive: "祭司"
+ #帝国级宫廷男主教
+ councillor_court_chaplain_kos_Tuqi_empire_female: "祭司"
+ councillor_court_chaplain_kos_Tuqi_empire_female_possessive: "祭司"
+ #帝国级宫廷女主教
+ 
+ #文化
+ 
+ heritage_aattui_name: "莫赫阿"
+ language_aattui_name: "通用图伊语"
+ name_list_aattui: "莫赫阿"
+ steppe_building_gfx: "大草原"
+ steppe_coa_gfx: "大草原"
+ mongol_clothing_gfx: "大草原"
+ mongol_coa_gfx: "大草原"
+ mongol_unit_gfx: "大草原"
+ 
+ mola: "莫腊"
+ tuyi: "图伊"
+ aattuyi: "阿特图伊"
+ molasts: "莫腊刺"
+ leilida: "垒利达"
+ aat: "阿特"
+ qitve: "其特维"
+ swacha: "斯瓦嚓"
+ tuqi_swacha: "图其-斯瓦嚓"
+ 
+ 
+ Teal: "垒特阿尔"
+ litea: "垒利特阿"
+ LeiteTui: "垒特图伊"
+ Qitehe: "垒其特赫"
+ da: "垒达"
+ sa: "垒萨"
+ Daheserter: "垒达赫斯儿特"
+ Aer: "垒阿尔"
+ Kurkis: "垒库儿基斯"
+ 
+ dynnp_er: "耳·"
+ 
+ #Ste: "斯特"
+ #Dan: "丹"
+ #Teals: "特阿儿斯"
+ #Aara: "阿腊"
+ #QiTterr: "其特耳"
+ #Dach: "达赫"
+ #Lanatte: "腊纳特"
+ #Sheucht: "修赫特"
+ #alkhter: "阿尔赫特"
+ #Wach: "沃赫"
+ #Waldos: "沃儿朵斯"
+ #Kona: "科纳"
+ #Aldos: "阿儿朵斯"
+ #
+ #SteA: "斯特阿"
+ ##Teals: "特阿儿斯"
+ #RaAa: "腊阿"
+ #QiTterra: "其特儿阿"
+ #Dachtaa: "达赫特阿"
+ #Lana: "腊纳"
+ #Sheuchts: "修赫特斯"
+ #alkhters: "阿尔赫特斯"
+ #Wachla: "沃赫腊"
+ #Waldos: "沃尔朵斯"
+ 
+ dala_ourda: "达腊-奥达"
+ aaduo: "阿朵"
+ aapoaa: "阿破阿"
+ erpoaa: "儿破阿"
+ dala_tedaer: "达腊-特达耳"
+ ###
+ aaerduos: "阿儿朵斯"
+ daer: "达耳"
+ girt: "格特"
+ scooer: "斯库耳"
+ chawot: "嚓沃特"
+ 
+ si_teaa: "斯-特阿"
+ aala: "阿腊"
+ aapoaa: "阿破阿"
+ erpoaa: "儿破阿"
+ aaherqit: "阿赫其特"
+ ###
+ xili: "西利"
+ aayiack: "阿伊克"
+ qina: "其纳"
+ yive: "伊维"
+ danataa: "达纳特阿"
+ 
+ 
+ heritage_tuqi_name: "图其"
+ language_tuqi_name: "通用图其语"
+ name_list_tuqi: "图其"
+ tuqi: "图其"
+ island_tuqi: "海岛图其"
+ 
+ #头衔名称
+ 
+ baron_tribal_male: "首领"
+ baron_tribal_female: "女首领"
+ barony_tribal: "部落"
+ count_tribal_male: "酋长"
+ count_tribal_female: "女酋长"
+ county_tribal: "酋邦"
+ duke_tribal_male: "大酋长"
+ duke_tribal_female: "女大酋长"
+ duchy_tribal: "大酋邦"
+ king_tribal_male: "至高王"
+ king_tribal_female: "女至高王"
+ kingdom_tribal: "至高王国"
+ emperor_tribal_male: "万王之王"
+ emperor_tribal_female: "女万王之王"
+ empire_tribal: "万王之王国"
+ 
+ king_male_aattui_group: "阿耳"
+ king_female_aattui_group: "阿耳"
+ kingdom_aattui_group: "阿耳国"
+ emperor_male_aattui_group: "阿耳刺"
+ emperor_female_aattui_group: "阿耳刺"
+ empire_aattui_group: "刺国"
+ 
+ #剧本
+ 
+ bm_group_1: "1"
+ bm_1_ZuiZHongBengKui: "后莫腊刺时代"
+ bm_1_ZuiZHongBengKui_desc: "在莫腊刺崩溃后斯瓦嚓也面临图其-斯瓦嚓的独立，整个大草原都乱成一锅粥，这段时期的混乱会让一个个小人物崛起，一个个大家族崩溃，在结束一会参与者已经换了好几遍。"
+ bm_1_KuangXiZHiRi: "狂喜之日"
+ bm_1_KuangXiZHiRi_desc: "在莫腊刺帝国崩溃时全世界都在欢呼，将那一天定为公元元年，但他们不知道的是一场场新的战争即将发生。"
+ 
+ bm_group_266: "266"
+ bm_266_JinZHiYouWan: "禁止游玩"
+ bm_266_JinZHiYouWan_desc: "有问题，禁止游玩"
+ 
+ bm_266_BenKuiDeYvBo: "崩溃的余波"
+ bm_266_BenKuiDeYvBo_desc: "在莫腊刺帝国崩溃时全世界都在欢呼，将那一天定为公元元年。转眼两个世纪过去莫腊刺大草原仍然在崩溃的余波中，许多人声称是莫腊刺的继任者，丹·腊纳特·丹回尔·耳·垒阿达沃斯就是其中一员......"
+ bm_266_LiangCHangDongZHeng: "两场东征"
+ bm_group_1000: "1000"
+ bm_1000_XinDeZHengFuZHe: "新的征服者"
+ bm_1000_XinDeZHengFuZHe_desc: "丹·腊纳特·丹回尔·耳·垒阿达沃斯的后代丹回尔·阿腊·丹二世··耳·垒阿达沃斯统一了莫腊刺大草原，建立了阿特图伊帝国，除了棍马姆以外的莫腊刺大草原地区都臣服与帝国之下，尔其他人对于莫腊刺的统一有效表示愤怒，有些表示担忧，还有些表示恐惧"
+ bm_1000_RuanRuo: "软弱之人"
+ bm_1000_RuanRuo_desc: "在阿特图伊人登陆佛罗利亚的时候他们被佛罗利亚的·富饶所震惊，他们将这里称为黄金海岸，是图伊神给他们的礼物，他们掠夺，屠戮，佛罗利亚国王对此没有任何行动，被称为软弱之人。"
+ bookmark_RuanRuo_Teals_LeiGeHeTu: "特阿儿斯"
+ bookmark_RuanRuo_Teals_LeiGeHeTu_desc: "阿腊·丹·特阿儿斯·垒格赫图出生于933年7月4日的东南斯瓦嚓山脉的一个小贵族家庭，从小父母就教育他要用武力获得土地与钱财，但他对这些身外之物完全不感兴趣，只对自身的荣耀感兴趣，所以他加入了入侵黄金海岸的军队，但后来阴差阳错的成为了黄金海岸的领主，而东南斯瓦嚓山脉的领土由他兄弟继承。"
+ bookmark_RuanRuo_Aara_LeiGeHeTu: "阿腊"
+ bm_1000_PanJiaoZHe: "红色梦魇"
+ bm_1000_PanJiaoZHe_desc: "在中心岛的海洋甜瓜人的起义是始料未及的，他们身穿红白相间的衣服，这是甜瓜国士兵的噩梦，他们永远不知道敌人会在什么地方蹦出来，就像你不知道今天[数据删除]一样。最终甜瓜国承认了中心岛的独立，但两国还在紧张对峙。。"
+ bookmark_PanJiaoZHe_Natusit_ZHongXinDao: "奈图西特"
+ bookmark_PanJiaoZHe_Natusit_ZHongXinDao_desc: "奈图西特·中心岛，原名奈图·西特，生于964年6月1日中心岛王国的一个图其人家庭，从小就在无神论的环境下长大，在学校因为图其人和无神论者的身份被孤立，直到她接触了共产主义秘密组织，通过优秀的才能成为了领袖。在996年1月5日带领中心岛革命军在中心岛组织革命，在998年4月10日革命成功后改名奈图西特·中心岛。"
+ #bookmark_PanJiaoZHe_Natusit_ZHongXinDao_alt_gudfrid: "$GuT_friT_$"
+ #bookmark_PanJiaoZHe_Natusit_ZHongXinDao_alt_saga: "“$nick_the_truthspeaker$”$Saga$"
+ 
+ #宗族
+ 
+ dynn_MoYing: "魔影"
+ dynn_0_motto: "我TM是模组作者！谁敢惹我？"
+ LiuLiu: "六六"
+ 
+ dynn_swacha: "斯瓦嚓"
+ dynn_1_motto: "为星辰而战！"
+ #SteA: "斯特阿"
+ 
+ dynn_waaatu: "瓦阿图"
+ dynn_2_motto: "敌人不会再来"
+ 
+ dynn_leigehertu: "垒格赫图"
+ dynn_3_motto: "土地，金钱，与荣耀！"
+ 
+ dynn_leiherteer: "垒赫特耳"
+ dynn_4_motto: "我们是海洋"
+ 
+ 
+ dynn_leilida: "垒利达"
+ dynn_12_motto: "记住四位阿耳"
+ aapoaa_leida: "阿破阿·垒达"
+ 
+ dynn_leipoda: "垒破达"
+ dynn_10_motto: "自然是伟大的"
+ 
+ dynn_leiackt: "垒克特"
+ dynn_13_motto: "纪念过去"
+ 
+ dynn_leiqists: "垒其刺"
+ dynn_14_motto: "我大酋长"
+ 
+ dynn_leitan: "垒特纳"
+ dynn_15_motto: "金钱就是一切"
+ 
+ dynn_leiherfa: "垒赫伐"
+ dynn_16_motto: "天上是未来"
+ 
+ dynn_leilat: "垒腊特"
+ dynn_17_motto: "来世不受苦"
+ 
+ dynn_leiourda: "垒奥达"
+ dynn_18_motto: "马蹄将践踏世界"
+ 
+ 
+ dynn_tebuher: "特布赫"
+ dynn_11_motto: "不择手段获得自己应有的。"
+ 
+ dynn_leidaer: "垒达耳"
+ dynn_19_motto: "山是不可逾越"
+ 
+ #斗争
+ 
+ morasts_struggle: "后莫腊刺时代"
+ struggle_morasts_ending_disappearing_steppe_people_decision: "消失的草原民族"
+ struggle_morasts_ending_disappearing_steppe_people_decision_desc: "在征服莫腊刺大草原后，我们将让他们彻底消失。"
+ struggle_morasts_ending_disappearing_steppe_people_decision_confirm: "结束$morasts_struggle$"
+ struggle_morasts_ending_disappearing_steppe_people_decision_tooltip: "在时间的冲刷或战争的洗礼后，阿特图伊彻底成为了历史名词。"
+ struggle_morasts_ending_praise_the_sun_decision: "赞美太阳"
+ struggle_morasts_ending_praise_the_sun_decision_desc: "在征服了其他势力后，大草原将被冠以我的名字！"
+ struggle_morasts_ending_praise_the_sun_decision_confirm: "结束$morasts_struggle$"
+ struggle_morasts_ending_praise_the_sun_decision_tooltip: "赞美太阳，赞美图伊神，祂让我们胜利。"
+ struggle_morasts_ending_revival_swacha_decision: "复兴斯瓦嚓"
+ struggle_morasts_ending_revival_swacha_decision_desc: "在征服到图伊山圣地后，我们可以宣布正式恢复古斯瓦嚓国的疆域。"
+ struggle_morasts_ending_revival_swacha_decision_confirm: "结束$morasts_struggle$"
+ struggle_morasts_ending_revival_swacha_decision_tooltip: "在很久以前……"
+ 
+ #特权
+ 
+ special_contract_tributum_short: "朝贡"
+ special_contract_tributum: "朝贡国"
+ special_contract_tributum_desc: "$special_contract_tributum$[vassal|E]不属于封建体系的一员，他们的地位在封臣和独立国之间。$special_contract_tributum$[vassals|E]需要定期上贡$feudal_government_taxes$[obligation|E]"

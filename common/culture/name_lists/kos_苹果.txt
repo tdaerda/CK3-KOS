@@ -1,0 +1,43 @@
+﻿name_list_tuqi = {
+
+#	mercenary_names = {
+#雇佣兵名称
+#		{ name = "mercenary_company_name1" coat_of_arms = "mercenary_company_coa1" }
+#		{ name = "mercenary_company_name2" coat_of_arms = "mercenary_company_coa2" }
+#	}
+
+	dynasty_of_location_prefix = " "
+#王朝前缀
+
+	cadet_dynasty_names = {
+#立嗣王朝名称
+		Teal litea LeiteTui Qitehe da sa Daheserter Aer Kurkis
+		#垒利达# Teal #垒笛达斯# litea LeiteTui Qitehe da sa Daheserter Aer Kurkis
+		#垒利达#  特阿尔 #垒笛达斯# 利特阿 垒特图伊 其特赫 达 萨 达赫斯儿特 阿尔 库儿基斯
+	}
+
+	dynasty_names = {
+#王朝名称
+		Teal litea LeiteTui Qitehe da sa Daheserter Aer Kurkis
+		#垒利达# Teal #垒笛达斯# litea LeiteTui Qitehe da sa Daheserter Aer Kurkis
+		#垒利达#  特阿尔 #垒笛达斯# 利特阿 垒特图伊 其特赫 达 萨 达赫斯儿特 阿尔 库儿基斯
+	}
+
+	male_names = {
+#男性名称
+		Ste Dan Teals Aara QiTterr Dach Lanatte Sheucht alkhter Wach Waldos Kona Aldos
+		#斯特 丹 特阿儿斯 阿腊 其特耳 达赫 腊纳特 修赫特 阿尔赫特 沃赫 沃尔朵斯 科纳 阿儿朵斯
+	}
+
+	female_names = {
+#女性名称
+		SteA Teals RaAa QiTterra Dachtaa Lana Sheuchts alkhters Wachla Waldos
+		#斯特阿 特阿儿斯 腊阿 其特儿阿 达赫特阿 腊纳 修赫特斯 阿尔赫特斯 沃赫腊 沃儿朵斯
+	}
+	
+	founder_named_dynasties = no
+#是否用姓命名国家
+
+	always_use_patronym = no
+#是否显示父（母）名
+}

@@ -1,0 +1,322 @@
+26 = {		#第二佛罗利亚（赫沃图其 赫）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+27 = {		#临近佛罗利亚海（赫沃图其 阿赫其特）
+	holding = tribal_holding
+}
+28 = {		#临近佛罗利亚湾（赫沃图其 阿赫其特-斯）
+	holding = tribal_holding
+}
+
+29 = {		#下守望（下 瓦阿图）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+30 = {		#中守望（中 瓦阿图）
+	holding = tribal_holding
+}
+31 = {		#上守望（上 瓦阿图）
+	holding = tribal_holding
+}
+
+32 = {		#东南斯瓦嚓山脚
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+33 = {		#土地堡（西特赫伐耳）
+	holding = tribal_holding
+}
+34 = {		#图其阿特（图特）
+	holding = city_holding
+}
+
+35 = {		#上滨海斯瓦嚓（上 斯瓦嚓 奥伊）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = city_holding
+}
+36 = {		#下滨海斯瓦嚓（下 斯瓦嚓 奥伊）
+	holding = none
+}
+37 = {		#不陷落（赫赫 卡赫特）
+	holding = tribal_holding
+}
+
+38 = {		#勇士1（达腊 沃）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+39 = {		#勇士2（达腊 赫）
+	holding = church_holding
+}
+40 = {		#勇士3（达腊 耳）
+	holding = tribal_holding
+}
+
+41 = {		#布（格阿布）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+42 = {		#滨海布（格阿布 奥伊）
+	holding = city_holding
+}
+43 = {		#东布（东格阿布）
+	holding = none
+}
+
+44 = {		#毒（达阿）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = church_holding
+}
+45 = {		#布
+	holding = none
+}
+46 = {		#门（莫）
+	holding = tribal_holding
+}
+
+47 = {		#上东斯瓦嚓山脚
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+48 = {		#东斯瓦嚓山脚
+	holding = church_holding
+}
+49 = {		#下东斯瓦嚓山脚
+	holding = tribal_holding
+}
+
+50 = {		#沿海走廊（克西特-奥伊）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = city_holding
+}
+51 = {		#斯瓦嚓走廊（克西特-斯瓦嚓）
+	holding = none
+}
+
+52 = {		#斯瓦嚓绿洲一号（伊克-斯瓦嚓 沃）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+53 = {		#斯瓦嚓绿洲二号（伊克-斯瓦嚓 赫）
+	holding = tribal_holding
+}
+
+54 = {		#内希望地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+55 = {		#希望地
+	holding = tribal_holding
+}
+56 = {		#外希望地
+	holding = none
+}
+
+57 = {		#内希望地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+58 = {		#希望地
+	holding = none
+}
+
+
+60 = {		#新土地堡
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+61 = {		#新格阿布
+	holding = city_holding
+}
+
+62 = {		#黄金地（大沃赫特阿）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+63 = {		#西黄金地（大沃赫特阿）
+	holding = none
+}
+
+64 = {		#干掉阿特（赫赫 阿特）
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+65 = {		#西干掉阿特（西 赫赫 阿特）
+	holding = none
+}
+
+66 = {		#鱼地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+67 = {		#财富地（小沃赫特阿）
+	holding = none
+}
+68 = {		#矿地
+	holding = city_holding
+}
+
+69 = {		#海地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = none
+}
+70 = {		#墓地
+	holding = none
+}
+71 = {		#家地
+	holding = tribal_holding
+}
+72 = {		#荣耀地
+	holding = tribal_holding
+}
+
+73 = {		#岛地
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+74 = {		#勇地
+	holding = none
+}
+75 = {		#征服地
+	holding = none
+}
+
+76 = {		#东矿区
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+77 = {		#西矿区
+	holding = none
+}
+
+78 = {		#蛇岛
+	culture = swacha
+	religion = kos_swacha_aateerhert
+	holding = tribal_holding
+}
+
+79 = {		#沿海河西
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = city_holding
+}
+80 = {		#河西走廊
+	holding = tribal_holding
+}
+81 = {		#上河西
+	holding = none
+}
+
+82 = {		#象牙谷
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+83 = {		#象牙走廊
+	holding = none
+}
+84 = {		#东象牙海岸
+	holding = city_holding
+}
+85 = {		#西象牙海岸
+	holding = none
+}
+
+86 = {		#中东斯瓦嚓山脚
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = city_holding
+}
+87 = {		#鹰地
+	holding = none
+}
+
+
+89 = {		#垒达
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+90 = {		#儿阿
+	holding = tribal_holding
+}
+
+91 = {		#自由地
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+
+92 = {		#狂人
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+
+93 = {		#垒其刺
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+
+94 = {		#垒特纳
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+
+95 = {		#特布赫
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+
+96 = {		#垒赫伐
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+
+97 = {		#垒腊特
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+
+98 = {		#垒沃特
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+
+99 = {		#东垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}
+
+100 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+	holding = tribal_holding
+}

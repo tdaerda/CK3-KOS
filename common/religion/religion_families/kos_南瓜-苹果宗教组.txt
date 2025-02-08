@@ -1,0 +1,5 @@
+﻿rf_ kos_NanGua_PingGuo = {
+	is_pagan = no
+	hostility_doctrine = abrahamic_hostility_doctrine
+	doctrine_background_icon = core_tenet_banner_pagan.dds
+}

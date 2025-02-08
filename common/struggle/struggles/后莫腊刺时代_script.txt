@@ -1,0 +1,134 @@
+﻿morasts_struggle = {
+	cultures = {
+		#南瓜
+		morasts
+		swacha
+	}
+	faiths = {
+		kos_swacha_aateerhert
+	}
+	regions = {
+		prairie
+	}
+
+	involvement_prerequisite_percentage = 0.5
+
+	on_start = {
+		# Start the over-time catalysts.
+		trigger_event = neutral_struggle.0001
+	}
+
+	transition_state_duration = { months = 3 }
+
+	on_change_phase = {
+		# If relevant, gather data on when we changed phase.
+		
+	}
+	
+	# Root = the character which has joined the struggle
+ 	on_join = {
+		if = {
+			limit = {
+				culture = { has_cultural_pillar = heritage_aattui }
+			}
+			trigger_event = kos_HouNoLaCiSHiDai.1
+		}
+		else = {
+			# assign an intent to the freshly joined character
+			trigger_event = kos_HouNoLaCiSHiDai.1
+		}
+ 	}
+
+	start_phase = struggle_morasts_phase_soldiers_of_the_grassland
+
+	phase_list = {
+		struggle_morasts_phase_soldiers_of_the_grassland = {
+			duration = { points = 500 }
+
+			war_effects = {
+				name = WAR_EFFECTS_NAME
+				involved_character_modifier = {
+					men_at_arms_recruitment_cost = -0.5
+					men_at_arms_maintenance = -0.5
+					pursue_efficiency = 0.25
+					glory_hound_ai_energy = very_high_positive_ai_value
+					glory_hound_ai_boldness = very_high_positive_ai_value
+				}
+
+				interloper_character_modifier = {
+					men_at_arms_recruitment_cost = -0.25
+				}
+			}
+
+			other_effects = {
+				name = OTHER_EFFECTS_NAME
+				involved_parameters = {
+					less_dissolution_more_claimants = yes
+				}
+				involved_character_modifier = {
+				}
+				interloper_parameters = {
+				}
+			}
+			ending_decisions = { 
+				struggle_morasts_ending_disappearing_steppe_people_decision # 结局 消失的草原民族
+				struggle_morasts_ending_praise_the_sun_decision # 结局 赞美太阳
+				struggle_morasts_ending_revival_swacha_decision # 结局 复兴斯瓦嚓
+			}
+		}
+
+		struggle_morastsmorasts_phase_digest_and_Reconstruction = {
+			duration = { points = 500 }
+
+			war_effects = {
+				name = WAR_EFFECTS_NAME
+				# lower cost and higher gain for external wars
+				common_parameters = {
+					apply_truce_when_sending_ward = yes
+					invasion_conquest_war_cannot_be_declared = yes
+				}
+
+				involved_character_modifier = {
+					# Everyone hires soldiers, either to maintain the peace or ready for the next phase of war.
+					men_at_arms_recruitment_cost = -0.5
+					men_at_arms_maintenance = -0.25
+					# This pumps some characters up.
+					glory_hound_ai_energy = very_high_positive_ai_value
+					glory_hound_ai_boldness = very_high_positive_ai_value
+				}
+
+				interloper_character_modifier = {
+					# Interlopers benefit a little here too.
+					men_at_arms_recruitment_cost = -0.25
+				}
+			}
+
+			other_effects = {
+				name = OTHER_EFFECTS_NAME
+				involved_parameters = {
+					struggle_unlocks_befriend_schemes_for_everyone = yes
+					unlocks_epic_commission_for_independent_rulers = yes
+					granting_independence_to_non_dejure_gives_renown = yes
+					unlocks_claim_throne_for_caliph_vassals = yes
+					less_dissolution_more_claimants = yes
+
+					# Note: this parameter doesn't _do_ anything, it's just for the tooltip.
+					## You need to manually set/clear the "struggle_block_dissolution_faction" variable on affected titles instead.
+					### We do it this way to save a bit on performance.
+					caliph_cant_be_dissolutioned = yes
+				}
+				involved_character_modifier = {
+					castle_holding_build_gold_cost = -0.3
+				}
+				interloper_parameters = {
+					less_dissolution_more_claimants = yes
+				}
+			}
+			ending_decisions = { 
+				struggle_morasts_ending_disappearing_steppe_people_decision # 结局 消失的草原民族
+				struggle_morasts_ending_praise_the_sun_decision # 结局 赞美太阳
+				struggle_morasts_ending_revival_swacha_decision # 结局 复兴斯瓦嚓
+			}
+		}
+	}
+}

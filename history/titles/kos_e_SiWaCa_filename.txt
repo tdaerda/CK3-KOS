@@ -1,0 +1,296 @@
+e_SiWaCa = {	#斯瓦嚓
+	1.1.1 = { government = tribal_government }
+	-218.2.5 = {
+		holder = 1_1
+	}
+	-18.3.6 = {
+		holder = 1_2
+	}
+}
+
+k_SiWaCaSHanMai = {	#斯瓦嚓山脉
+	1.1.1 = { government = tribal_government }
+	-18.3.6 = {
+		holder =1_2
+	}
+}
+
+d_DongSiWaCzaSHan = {	#东斯瓦嚓山
+	1.1.1 = { government = tribal_government }
+	-18.3.6 = {
+		holder =1_2
+	}
+}
+
+c_DiErFoLuoLiYa = {	#第二佛罗利亚（赫沃图其 赫）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 8 }
+	-18.3.6 = {
+		holder = 1_2
+	}
+}
+
+c_SHouWang = {	#守望（瓦阿图）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 7 }
+	-2.6.3 = {
+		holder = 2_1
+	}
+	1.1.1 = {
+		liege = e_SiWaCa
+	}
+}
+
+c_DongNanSiWaCaSHan = {	#东南斯瓦嚓山
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 5 }
+	-2.6.3 = {
+		holder = 3_1
+	}
+	42.10.7 = {
+		holder = 3_2
+	}
+	100.9.12 = {
+		holder = 3_3
+	}
+	1.1.1 = {
+		liege = e_SiWaCa
+	}
+}
+
+c_BinHaiSiWaCa = {	#滨海斯瓦嚓（斯瓦嚓 奥伊）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 10 }
+	-31.7.12 = {
+		holder = 4_1
+	}
+	-16.4.7 = {
+		holder = 4_2
+	}
+	1.1.1 = {
+		liege = e_SiWaCa
+	}
+}
+
+c_SanYongSHi = {	#三勇士（耳 达腊）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 8 }
+}
+
+c_Bu = {	#布（格阿布）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 13 }
+}
+
+c_DuBuMen = {	#毒布门（达阿布莫）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 12 }
+}
+
+c_DongSiWaCaSHanJiao = {	#东斯瓦嚓山脚
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 5 }
+}
+
+c_SiWaCaZouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 6 }
+}
+
+c_SiWaCaLvZHou = {	#斯瓦嚓绿洲（斯瓦嚓 伊克）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 7 }
+}
+
+c_XiWangDi = {	#希望地
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+}
+
+c_DongBeiSiWaCaSHanJiao = {	#东北斯瓦嚓山脚
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 3 }
+}
+
+
+d_DongSiWaCzaSHan = {	#东斯瓦嚓山
+	1.1.1 = { government = tribal_government }
+	-18.3.6 = {
+		holder =1_2
+	}
+}
+
+
+d_ZHongDongSiWaCzaSHan = {	#中东斯瓦嚓山
+	1.1.1 = { government = tribal_government }
+}
+
+c_ZHongBaoLiuDi = {	#中阿特人的土地/中保留地（中西特赫伐耳-阿特）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 8 }
+}
+
+c_SHangBaoLiuDi = {	#上阿特人的土地/上保留地（上西特赫伐耳-阿特）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 5 }
+}
+
+c_DongFuWen = {	#东符文（东阿特嚓斯）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 3 }
+}
+
+c_ZHongFuWen = {	#中符文（中阿特嚓斯）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 3 }
+}
+
+c_XiFuWen = {	#西符文（西阿特嚓斯）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+}
+
+c_KuangQv = {	#矿区
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 5 }
+}
+
+c_SHeDao = {	#蛇岛
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 5 }
+}
+
+c_HeXi = {	#河西
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 6 }
+	-16.5.8 = {
+		holder = 10_1
+	}
+}
+
+c_XiangDi = {	#象地
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 6 }
+	-32.9.3 = {
+		holder = 10_1
+	}
+}
+
+c_YingDi = {	#鹰地
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-32.9.3 = {
+		holder = 11_1
+	}
+}
+
+
+d_ZHongSiWaCzaSHan = {	#中斯瓦嚓山
+	1.1.1 = { government = tribal_government }
+}
+
+c_LeiDa = {	#垒达
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-10.4.7 = {
+		holder = 12_1
+	}
+}
+
+c_ZiYouDi = {	#自由地
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-6.8.1 = {
+		holder = 13_1
+	}
+}
+
+c_KuangRen = {	#狂人
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-6.8.1 = {
+		holder = 13_1
+	}
+}
+
+c_LeiQiCi = {	#垒其刺
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-2.7.3 = {
+		holder = 14_1
+	}
+	1.1.1 = {
+		liege = d_AoDa
+	}
+}
+
+c_LeiTeNa = {	#垒特纳
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-2.7.3 = {
+		holder = 15_1
+	}
+	1.1.1 = {
+		liege = d_AoDa
+	}
+}
+
+c_TeBuHe = {	#特布赫
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-16.5.8 = {
+		holder = 11_1
+	}
+}
+
+c_LeiHeFa = {	#垒赫伐
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-5.5.5 = {
+		holder = 16_1
+	}
+	1.1.1 = {
+		liege = d_AoDa
+	}
+}
+
+c_LeiLaTe = {	#垒腊特
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-17.4.7 = {
+		holder = 17_1
+	}
+	1.1.1 = {
+		liege = d_AoDa
+	}
+}
+
+c_LeiWoTe = {	#垒沃特
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-17.4.5 = {
+		holder = 18_1
+	}
+	1.1.1 = {
+		liege = d_AoDa
+	}
+}
+
+c_LeiDaEr = {	#垒达耳
+	1.1.1 = { government = tribal_government }
+	-9.8.6 = {
+		holder = 19_1
+	}
+}
+
+
+d_AoDa = {	#奥达
+	1.1.1 = { government = tribal_government }
+	-10.4.5 = {
+		holder = 18_1
+	}
+}
+
+#c_BianYuanZouLang = {	#边缘走廊
+#	1.1.1 = { change_development_level = 5 }
+#}

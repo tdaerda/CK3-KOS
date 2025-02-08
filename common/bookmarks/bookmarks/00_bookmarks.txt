@@ -1,0 +1,15 @@
+﻿bm_1_ZuiZHongBengKui = {
+	start_date = 1.1.1
+	is_playable = yes
+	group = bm_group_1
+
+	weight = { value = 100 }
+}
+
+bm_0_KuangXiZHiRi = {
+	start_date = 1.1.1
+	is_playable = yes
+	group = bm_group_1
+
+	weight = { value = 100 }
+}

@@ -1,0 +1,11 @@
+﻿test_decisions ={
+	desc = "11111"
+
+	is_valid ={
+		completely_controls_region=prairie
+	}
+
+	cost ={
+		prestige = 2000
+	}
+}

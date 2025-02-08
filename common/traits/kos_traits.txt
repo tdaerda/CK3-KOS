@@ -1,0 +1,25 @@
+yiterla = {
+	diplomacy = -1
+	health = -1
+
+	birth = 0.5
+	random_creation = 0.5
+	
+	inherit_chance = 70
+	health_trait = yes
+	good = no
+	
+	ruler_designer_cost = -10
+
+	desc = {
+		first_valid = {
+			triggered_desc = {
+				trigger = {
+					NOT = { exists = this }
+				}
+				desc = trait_beauty_good_1_desc
+			}
+			desc = trait_beauty_good_1_character_desc
+		}
+	}
+}

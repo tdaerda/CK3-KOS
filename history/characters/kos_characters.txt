@@ -1,0 +1,664 @@
+﻿0 = {
+	name = "LiuLiu"
+	dna = dna_0
+	dynasty = 0 #魔影
+	female = no
+	sexuality = asexual
+	diplomacy = 100
+	martial = 100
+	stewardship = 100
+	intrigue = 100
+	learning = 100
+	prowess = 100
+	religion = kos_WuSHenLun	
+	culture = french
+	trait = education_learning_5
+	trait = immortal
+	disallow_random_traits = yes
+	-1000.1.1 = {
+		birth = yes
+	}
+}
+
+############
+#斯瓦嚓#斯瓦嚓#
+############
+
+1_1 = {
+	name = "aala"
+	dna = dna_1_1
+	dynasty = 1 #斯瓦嚓
+	female = yes
+	sexuality = heterosexual
+
+	religion = kos_qitve_aateerhert
+	culture = qitve
+
+	disallow_random_traits = yes
+	-250.2.5 = { #-186.2.5
+		birth = yes
+	}
+	-203.4.7  = { #-223.4.7 
+		death = yes
+	}
+}
+
+1_2 = {
+	name = "aaherqit" #斯特阿
+	dna = dna_1_2
+	dynasty = 1 #斯瓦嚓
+	female = yes
+	sexuality = heterosexual
+	diplomacy = 4
+	martial = 13
+	stewardship = 14
+	intrigue = 7
+	learning = 14
+	prowess = 15
+	religion = kos_swacha_aateerhert
+	culture = swacha
+	trait = education_martial_3
+	trait = diligent
+	trait = stubborn
+	trait = brave
+
+	trait = albino
+	trait = rough_terrain_expert
+	trait = disfigured
+	disallow_random_traits = yes
+	-40.3.6 = {
+		birth = yes
+	}
+	37.8.1 = {
+		death = yes
+	}
+}
+
+#########
+#守望#守望#
+#########
+
+2_1 = {
+	name = "dala_tedaer"
+	dna = dna_2_1
+	dynasty = 2 #瓦阿图
+	female = no
+	sexuality = heterosexual
+	diplomacy = 3
+	martial = 8
+	stewardship = 5
+	intrigue = 3
+	learning = 9 #12
+	prowess = 12 #6
+	religion = kos_swacha_aateerhert
+	culture = swacha
+	trait = education_martial_1
+	trait = calm
+	trait = trait
+	trait = honest
+
+	trait = athletic
+	trait = strong
+	trait = physique_good_1
+	trait = tourney_participant
+	disallow_random_traits = yes
+	-24.1.4 = {
+		birth = yes
+	}
+	58.2.1 = {
+		death = yes
+	}
+}
+
+############
+#土地堡#土地堡#
+############
+
+3_1 = {
+	name = "daer"
+	dna = dna_3_1
+ 	dynasty = 3 #垒格赫图
+	female = no
+	sexuality = heterosexual
+	martial =4
+	diplomacy = 4
+	intrigue = 4
+	stewardship = 4
+	learning = 4
+	prowess = 12
+	religion = kos_qitve_aateerhert
+	culture = swacha
+	trait = education_martial_1
+	trait = arrogant
+	trait = ambitious
+	trait = just
+	disallow_random_traits = yes
+	-20.4.2 = {
+		birth = yes
+	}
+	42.10.7 = {
+		death = yes
+	}
+}
+
+3_2 = {
+	name = "dala_ourda"
+	dna = dna_3_1
+ 	dynasty = 3 #垒格赫图
+	female = no
+	sexuality = heterosexual
+
+	father = 3_1
+
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	learning = 3
+	prowess = 10
+	religion = kos_qitve_aateerhert
+	culture = swacha
+	trait = education_martial_2
+	trait = temperate
+	trait = diligent
+	trait = humble
+	disallow_random_traits = yes
+	32.10.7 = { #42.10.7
+		birth = yes
+	}
+	100.9.12 = {
+		death = yes
+	}
+}
+
+3_3 = {
+	name = "dala_ourda"
+	dna = dna_3_1
+ 	dynasty = 3 #垒格赫图
+	female = no
+	sexuality = heterosexual
+
+	father = 3_2
+
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	learning = 3
+	prowess = 10
+	religion = kos_qitve_aateerhert
+	culture = swacha
+	trait = education_martial_2
+	trait = temperate
+	trait = diligent
+	trait = humble
+
+	trait = giant
+	disallow_random_traits = yes
+	74.1.19 = { #84.1.19
+		birth = yes
+	}
+	165.1.1 = {
+		death = yes
+	}
+}
+
+3_4 = {
+	name = "aaerduos"
+	dna = dna_3_1
+ 	dynasty = 3 #垒格赫图
+	female = no
+	sexuality = heterosexual
+
+	father = 3_3
+
+	martial = 8
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 6
+	learning = 3
+	prowess = 10
+	religion = kos_tuyi_aateerhert
+	culture = molasts
+	trait = education_martial_2
+	trait = temperate
+	trait = diligent
+	trait = humble
+
+	trait = giant
+	trait = mujahid
+	disallow_random_traits = yes
+	107.7.4 = {
+		birth = yes
+	}
+	200.2.5 = {
+		death = yes
+	}
+}
+
+######
+#鱼#鱼#
+######
+
+4_1 = {
+	name = "chawot"
+	dna = dna_4_1
+ 	dynasty = 4 #垒赫特耳
+	female = no
+	sexuality = heterosexual
+	martial =7
+	diplomacy = 8
+	intrigue = 12
+	stewardship = 6
+	learning = 9
+	prowess = 10
+	religion = kos_qitve_aateerhert
+	culture = swacha
+	trait = education_stewardship_3
+	trait = stubborn
+	trait = patient
+	trait = brave
+	disallow_random_traits = yes
+	-50.4.7 = {
+		birth = yes
+	}
+	-16.4.7 = {
+		death = yes
+	}
+}
+
+4_2 = {
+	name = "chawot"
+	dna = dna_4_2
+ 	dynasty = 4 #垒赫特耳
+	female = no
+	sexuality = heterosexual
+
+	father = 4_1
+
+	martial =7
+	diplomacy = 8
+	intrigue = 9
+	stewardship = 6
+	learning = 9
+	prowess = 14
+	religion = kos_qitve_aateerhert
+	culture = swacha
+	trait = education_stewardship_3
+	trait = diligent
+	trait = patient
+	trait = craven
+
+	trait = twin
+	disallow_random_traits = yes
+	-28.3.11 = {
+		birth = yes
+	}
+	45.4.7 = {
+		death = yes
+	}
+}
+
+4_3 = {
+	name = "girt"
+	dna = dna_4_2
+ 	dynasty = 4 #垒赫特耳
+	female = no
+	sexuality = heterosexual
+
+	father = 4_1
+
+	martial =7
+	diplomacy = 8
+	intrigue = 9
+	stewardship = 6
+	learning = 9
+	prowess = 14
+	religion = kos_qitve_aateerhert
+	culture = swacha
+	trait = education_stewardship_3
+	trait = diligent
+	trait = patient
+	trait = craven
+
+	trait = twin
+	disallow_random_traits = yes
+	-28.3.11 = {
+		birth = yes
+	}
+	45.4.7 = {
+		death = yes
+	}
+}
+
+######
+#象#象#
+######
+
+10_1 = {
+	name = "scooer"
+	dna = dna_10_1
+ 	dynasty = 10 #垒破达
+	female = no
+	sexuality = heterosexual
+	martial =15
+	diplomacy = 5
+	intrigue = 7
+	stewardship = 4
+	learning = 8
+	prowess = 6
+	religion = kos_qitve_aateerhert
+	culture = aat
+	trait = education_learning_4
+	trait = chaste
+	trait = calm
+	trait = patient
+
+	trait = mystic_male_1
+	disallow_random_traits = yes
+	-42.9.3 = {
+		birth = yes
+	}
+	20.7.7 = {
+		death = yes
+	}
+}
+
+######
+#鹰#鹰#
+######
+
+11_1 = {
+	name = "chawot"
+	dna = dna_11_1
+ 	dynasty = 11 #特布赫
+	female = no
+	sexuality = heterosexual
+	martial =5
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 16
+	learning = 13
+	prowess = 4
+	religion = kos_qitve_aateerhert
+	culture = aat
+	trait = education_intrigue_4
+	trait = temperate
+	trait = deceitful
+	trait = sadistic
+
+	disallow_random_traits = yes
+	-58.2.20 = {
+		birth = yes
+	}
+	30.7.10 = {
+		death = yes
+	}
+}
+
+############
+#垒利达#垒利达#
+############
+
+12_1 = {
+	name = "aapoaa_leida"
+	dna = dna_12_1
+ 	dynasty = 12 #垒利达
+	female = no
+	sexuality = heterosexual
+	martial =9
+	diplomacy = 5
+	intrigue = 10
+	stewardship = 12
+	learning = 9
+	prowess = 8
+	religion = kos_qitve_aateerhert
+	culture = leilida
+	trait = education_martial_2
+	trait = trusting
+	trait = brave
+	trait = ambitious
+
+	trait = lisping
+	trait = physique_good_1
+	trait = athletic
+	disallow_random_traits = yes
+	-28.3.11 = {
+		birth = yes
+	}
+	45.4.7 = {
+		death = yes
+	}
+}
+
+###################
+#自由民/狂人#自由民/狂人#
+###################
+
+13_1 = {
+	name = "scooer"
+	dna = dna_13_1
+ 	dynasty = 13 #垒克特
+	female = no
+	sexuality = heterosexual
+	martial =4
+	diplomacy = 4
+	intrigue = 3
+	stewardship = 4
+	learning = 5
+	prowess = 0
+	religion = kos_qitve_aateerhert
+	culture = aat
+	trait = education_intrigue_3
+	trait = humble
+	trait = temperate
+	trait = ambitious
+
+	trait = populist_leader
+	disallow_random_traits = yes
+	-22.2.2 = {
+		birth = yes
+	}
+	62.7.4 = {
+		death = yes
+	}
+}
+
+############
+#大酋长#大酋长#
+############
+
+14_1 = {
+	name = "erpoaa"
+	dna = dna_14_1
+ 	dynasty = 14 #垒其刺
+	female = no
+	sexuality = heterosexual
+	martial =3
+	diplomacy = 3
+	intrigue = 3
+	stewardship = 3
+	learning = 3
+	prowess = 8
+	religion = kos_qitve_aateerhert
+	culture = aat
+	trait = education_martial_2
+	trait = wrathful
+	trait = arrogant
+	trait = brave
+
+	trait = physique_good_male_3
+	disallow_random_traits = yes
+	-32.3.8 = {
+		birth = yes
+	}
+	6.3.8 = {
+		death = yes
+	}
+}
+
+######
+#德#德#
+######
+
+15_1 = {
+	name = "daer"
+	dna = dna_15_1
+ 	dynasty = 15 #垒特纳
+	female = no
+	sexuality = heterosexual
+	martial =9
+	diplomacy = 8
+	intrigue = 15
+	stewardship = 10
+	learning = 8
+	prowess = 9
+	religion = kos_qitve_aateerhert
+	culture = aat
+	trait = education_martial_3
+	trait = greedy
+	trait = impatient
+	trait = arrogant
+	disallow_random_traits = yes
+	-17.7.3 = {
+		birth = yes
+	}
+	7.9.11 = {
+		death = yes
+	}
+}
+
+#########
+#小灰#小灰#
+#########
+
+16_1 = {
+	name = "yive"
+	dna = dna_16_1
+ 	dynasty = 16 #垒赫伐
+	female = yes
+	sexuality = heterosexual
+	martial =9
+	diplomacy = 0
+	intrigue = 9
+	stewardship = 0
+	learning = 9
+	prowess = 0
+	religion = kos_qitve_aateerhert
+	culture = aat
+	trait = lustful
+	trait = honest
+	trait = shy
+
+	trait = beauty_good_2
+	trait = intellect_good_2
+	disallow_random_traits = yes
+	-15.5.5 = {
+		birth = yes
+	}
+	50.5.5 = {
+		death = yes
+	}
+}
+
+######
+#水#水#
+######
+
+17_1 = {
+	name = "aaherqit"
+	dna = dna_17_1
+ 	dynasty = 17 #垒腊特 #垒儿赫特
+	female = yes
+	sexuality = heterosexual
+	martial =10
+	diplomacy = 6
+	intrigue = 8
+	stewardship = 12
+	learning = 13
+	prowess = 5
+	religion = kos_qitve_aateerhert
+	culture = aat
+	trait = education_diplomacy_1
+	trait = lustful
+	trait = temperate
+	trait = calm
+
+	trait = beauty_good_1
+	trait = infertile
+	disallow_random_traits = yes
+	-22.12.7 = {
+		birth = yes
+	}
+	10.5.21 = { #10.21.5
+		death = yes
+	}
+}
+
+#########
+#奥达#奥达#
+#########
+
+18_1 = {
+	name = "dala_ourda"
+	dna = dna_18_1
+ 	dynasty = 18 #奥达
+	female = no
+	sexuality = heterosexual
+	martial =8
+	diplomacy = 10
+	intrigue = 6
+	stewardship = 10
+	learning = 6
+	prowess = 12
+	religion = kos_qitve_aateerhert
+	culture = aat
+	trait = education_martial_4
+	trait = arrogant
+	trait = deceitful
+	trait = sadistic
+
+	disallow_random_traits = yes
+	-37.10.21 = {
+		birth = yes
+	}
+	10.10.7 = {
+		death = yes
+	}
+	-17.4.7 = {
+		add_spouse = 17_1
+	}
+}
+
+######
+#山#山#
+######
+
+19_1 = {
+	name = "dala_tedaer"
+	dna = dna_19_1
+ 	dynasty = 19 #垒达耳
+	female = no
+	sexuality = heterosexual
+	martial =3
+	diplomacy = 5
+	intrigue = 5
+	stewardship = 0
+	learning = 5
+	prowess = 5
+	religion = kos_qitve_aateerhert
+	culture = aat
+	trait = education_martial_2
+	trait = impatient
+	trait = honest
+	trait = brave
+
+	disallow_random_traits = yes
+	-39.2.7 = {
+		birth = yes
+	}
+	30.12.3 = {
+		death = yes
+	}
+}
+

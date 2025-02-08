@@ -1,0 +1,21 @@
+d_BeiJi = {	#北极
+	-1000.1.1 = {
+		holder = 0
+		government = tribal_government
+	}
+}
+
+
+c_BeiJi = {	#北极
+	-1000.1.1 = {
+		holder = 0
+		government = tribal_government
+	}
+}
+b_BeiJi = {	#北极
+	1.1.1 = { change_development_level = 999 }
+	-1000.1.1 = {
+		holder = 0
+		government = tribal_government
+	}
+}

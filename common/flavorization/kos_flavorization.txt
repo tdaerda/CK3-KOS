@@ -1,0 +1,51 @@
+﻿king_male_aattui_group = {
+	type = character
+	gender = male
+	special = holder
+	tier = king
+	priority = 102
+	governments = { feudal_government clan_government tribal_government administrative_government }
+	heritages = { heritage_aattui }
+}
+king_female_aattui_group = {
+	type = character
+	gender = female
+	special = holder
+	tier = king
+	priority = 102
+	governments = { feudal_government clan_government tribal_government administrative_government }
+	heritages = { heritage_aattui }
+}
+kingdom_aattui_group = {
+	type = title
+	tier = king
+	priority = 102
+	governments = { feudal_government clan_government tribal_government administrative_government }
+	heritages = { heritage_aattui }
+}
+
+emperor_male_aattui_group = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 102
+	governments = { feudal_government clan_government tribal_government administrative_government }
+	heritages = { heritage_aattui }
+}
+emperor_female_aattui_group = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 102
+	governments = { feudal_government clan_government tribal_government administrative_government }
+	heritages = { heritage_aattui }
+}
+empire_aattui_group = {
+	type = title
+	tier = empire
+	priority = 102
+	governments = { feudal_government clan_government tribal_government administrative_government }
+	heritages = { heritage_aattui }
+}

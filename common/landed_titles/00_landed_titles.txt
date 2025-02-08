@@ -1,0 +1,1133 @@
+﻿d_BeiJi = {	#北极
+#公国
+	color = { 0 0 0 }
+#颜色
+	capital = c_BeiJi
+#首都
+	c_BeiJi = {	#北极
+#伯爵领
+		color = { 0 0 0 }
+#颜色
+			b_BeiJi = {	#北极
+#男爵领
+			province =3
+#拥有
+			color = { 0 0 0 }
+#颜色
+		}
+	}
+}
+
+e_TianGuaGuo = {	#甜瓜国
+#帝国
+	color = { 119 153 34 }
+#颜色
+	capital = c_ZHongXinDaohexin
+#首都
+	ai_primary_priority = {
+#ai创建倾向
+		add = 10
+	}
+	
+	k_ZHongXinDao = {	#中心岛
+#王国
+		color = { 255 255 255 }
+#颜色
+		capital = c_ZHongXinDaoHeXin
+#首都
+		ai_primary_priority = {
+#ai创建倾向
+			add = 10
+		}
+		
+		d_ZHongXinDao = {	#中心岛
+#公国
+			color = { 255 255 255 }
+#颜色
+			capital = c_ZHongXinDaohexn
+#首都
+			c_ZHongXinDaoHeXin = {	#中心岛核心
+#伯爵领
+				color = { 255 255 255 }
+#颜色
+				b_ZHongXinDaoHeXin = {	#中心岛核心
+#男爵领
+					province = 4
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+			}
+
+			c_NeiZHongXinDao = {	#内中心岛
+#伯爵领
+				color = { 255 255 255 }
+#颜色
+				b_NeiXiNanZHongXinDao = {	#内西南中心岛
+#男爵领
+					province = 5
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_NeiDongNanZHongXinDao = {	#内东南中心岛
+#男爵领
+					province = 6
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_NeiDongBeiZHongXinDao = {	#内东北中心岛
+#男爵领
+					province = 7
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_NeiXiBeiZHongXinDao = {	#内西北中心岛
+#男爵领
+					province = 8
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+			}
+
+			c_ZHongZHongXinDao = {	#中中心岛
+#伯爵领
+				color = { 255 255 255 }
+#颜色
+				b_SHangXiNanZHongXinDao = {	#上西南中心岛
+#男爵领
+					province = 9
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_XiaXiNanZHongXinDao = {	#下西南中心岛
+#男爵领
+					province = 10
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_SHangDongNanZHongXinDao = {	#上东南中心岛
+#男爵领
+					province = 11
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_XiaDongNanZHongXinDao = {	#下东南中心岛
+#男爵领
+					province = 12
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_XiaDongBeiZHongXinDao = {	#下东北中心岛
+#男爵领
+					province = 13
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_SHangDongBeiZHongXinDao = {	#上东北中心岛
+#男爵领
+					province = 14
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_XiaXiBeiZHongXinDao = {	#下西北中心岛
+#男爵领
+					province = 15
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_SHangXiBeiZHongXinDao = {	#上西北中心岛
+#男爵领
+					province = 16
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+			}
+
+			c_WaiZHongXinDao = {	#外中心岛
+#伯爵领
+				color = { 255 255 255 }
+#颜色
+				b_WaiSHangXiNanZHongXinDao = {	#上西南中心岛
+#男爵领
+					province = 17
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiXiaXiNanZHongXinDao = {	#下西南中心岛
+#男爵领
+					province = 18
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiSHangDongNanZHongXinDao = {	#上东南中心岛
+#男爵领
+					province = 19
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiXiaDongNanZHongXinDao = {	#下东南中心岛
+#男爵领
+					province = 20
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiXiaDongBeiZHongXinDao = {	#下东北中心岛
+#男爵领
+					province = 21
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiSHangDongBeiZHongXinDao = {	#上东北中心岛
+#男爵领
+					province = 22
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiXiaXiBeiZHongXinDao = {	#下西北中心岛
+#男爵领
+					province = 23
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+
+				b_WaiSHangXiBeiZHongXinDao = {	#上西北中心岛
+#男爵领
+					province = 24
+#拥有
+					color = { 255 255 255 }
+#颜色
+				}
+			}
+
+		}
+	}
+}
+
+e_SiWaCa = {	#斯瓦嚓
+#帝国
+	color = { 42 42 72 }
+#颜色
+	capital = c_DiErFoLuoLiYa
+#首都
+	ai_primary_priority = {
+#ai创建倾向
+		add = 10
+	}
+	
+	k_SiWaCaSHanMai = {	#斯瓦嚓山脉
+#王国
+		color = { 42 42 72 }
+#颜色
+		capital = c_DiErFoLuoLiYa
+#首都
+		ai_primary_priority = {
+#ai创建倾向
+			add = 10
+		}
+		
+		d_DongSiWaCzaSHan = {	#东斯瓦嚓山
+#公国
+			color = { 42 42 72 }
+#颜色
+			capital = c_DiErFoLuoLiYa
+#首都
+			c_DiErFoLuoLiYa = {	#第二佛罗利亚（赫沃图其 赫）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_DiErFoLuoLiYa = {	#第二佛罗利亚（赫沃图其 赫）
+#男爵领
+					province = 26
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_LinJinFoLuoLiYaHai = {	#临近佛罗利亚海（赫沃图其 阿赫其特）
+#男爵领
+					province = 27
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_LinJinFoLuoLiYaWan = {	#临近佛罗利亚湾（赫沃图其 阿赫其特-斯）
+#男爵领
+					province = 28
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_SHouWang = {	#守望（瓦阿图）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_XiaSHouWang = {	#下守望（下 瓦阿图）
+#男爵领
+					province = 29
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_ZHongSHouWang = {	#中守望（中 瓦阿图）
+#男爵领
+					province = 30
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_SHangSHouWang = {	#上守望（上 瓦阿图）
+#男爵领
+					province = 31
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_DongNanSiWaCaSHan = {	#东南斯瓦嚓山
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				capital = b_TuDiBao
+#首都
+				b_DongNanSiWaCaSHanJiao = {	#东南斯瓦嚓山脚
+#男爵领
+					province = 32
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_TuDiBao = {	#土地堡（西特赫伐耳）
+#男爵领
+					province = 33
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_TuQiATe = {	#图其阿特（图特）
+#男爵领
+					province = 34
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_BinHaiSiWaCa = {	#滨海斯瓦嚓（斯瓦嚓 奥伊）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_SHangBinHaiSiWaCa = {	#上滨海斯瓦嚓（上 斯瓦嚓 奥伊）
+#男爵领
+					province = 35
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiaBinHaiSiWaCa = {	#下滨海斯瓦嚓（下 斯瓦嚓 奥伊）
+#男爵领
+					province = 36
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_BuLuenXian = {	#不陷落（赫赫 卡赫特）
+#男爵领
+					province = 37
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_SanYongSHi = {	#三勇士（耳 达腊）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_YongSHi_1 = {	#勇士1（达腊 沃）
+#男爵领
+					province = 38
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_YongSHi_2 = {	#勇士2（达腊 赫）
+#男爵领
+					province = 39
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_YongSHi_3 = {	#勇士3（达腊 耳）
+#男爵领
+					province = 40
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_Bu = {	#布（格阿布）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_Bu_1 = {	#布（格阿布）
+#男爵领
+					province = 41
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_BinHaiBu = {	#滨海布（滨海格阿布）
+#男爵领
+					province = 42
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_DongBu = {	#东布（东格阿布）
+#男爵领
+					province = 43
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_DuBuMen = {	#毒布门（达阿布莫）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_Du = {	#毒（达阿）
+#男爵领
+					province = 44
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_Bu_2 = {	#布
+#男爵领
+					province = 45
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_Men = {	#门（莫）
+#男爵领
+					province = 46
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_DongSiWaCaSHanJiao = {	#东斯瓦嚓山脚
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_SHangDongSiWaCaSHanJiao = {	#上东斯瓦嚓山脚
+#男爵领
+					province = 47
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_DongSiWaCaSHanJiao = {	#东斯瓦嚓山脚
+#男爵领
+					province = 48
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiaDongSiWaCaSHanJiao = {	#下东斯瓦嚓山脚
+#男爵领
+					province = 49
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_SiWaCaZouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_YanHaiZouLang = {	#沿海走廊（克西特 奥伊）
+#男爵领
+					province = 50
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_SiWaCaZouLang = {	#斯瓦嚓走廊（克西特 斯瓦嚓）
+#男爵领
+					province = 51
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_SiWaCaLvZHou = {	#斯瓦嚓绿洲（斯瓦嚓 伊克）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_SiWaCaLvZHouYiHao = {	#斯瓦嚓绿洲一号（斯瓦嚓 伊克 沃）
+#男爵领
+					province = 52
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_SiWaCaLvZHouErHao = {	#斯瓦嚓绿洲二号（斯瓦嚓 伊克 赫）
+#男爵领
+					province = 53
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_XiWangDi = {	#希望地
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_NeiXiWangDi = {	#内希望地
+#男爵领
+					province = 54
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiWangDi = {	#希望地
+#男爵领
+					province = 55
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+				b_WaiXiWangDi = {	#外希望地
+#男爵领
+					province = 56
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_DongBeiSiWaCaSHanJiao = {	#东北斯瓦嚓山脚
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_XiaDongBeiSiWaCaSHanJiao = {	#下东北斯瓦嚓山脚
+#男爵领
+					province = 57
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_SHangDongBeiSiWaCaSHanJiao = {	#上东北斯瓦嚓山脚
+#男爵领
+					province = 58
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+		}
+
+		d_ZHongDongSiWaCzaSHan = {	#中东斯瓦嚓山
+#公国
+			color = { 42 42 72 }
+#颜色
+			capital = c_SHeDao
+#首都
+			c_XiaBaoLiuDi = {	#下阿特人的土地/下保留地（下西特赫伐耳-阿特）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_XinTuDiBao = {	#新土地堡
+#男爵领
+					province = 60
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XinGeABu = {	#新格阿布
+#男爵领
+					province = 61
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_ZHongBaoLiuDi = {	#中阿特人的土地/中保留地（中西特赫伐耳-阿特）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_HuangJinDi = {	#黄金地（大沃赫特阿）
+#男爵领
+					province = 62
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiHuangJinDi = {	#西黄金地（西大沃赫特阿）
+#男爵领
+					province = 63
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_SHangBaoLiuDi = {	#上阿特人的土地/上保留地（上西特赫伐耳-阿特）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_GanDiaoATe = {	#干掉阿特（赫赫 阿特）
+#男爵领
+					province = 64
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiGanDiaoATe = {	#西干掉阿特（西 赫赫 阿特）
+#男爵领
+					province = 65
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_DongFuWen = {	#东符文（东阿特嚓斯）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_YvDi = {	#鱼地
+#男爵领
+					province = 66
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_CHaiFuDi = {	#财富地（小沃赫特阿）
+#男爵领
+					province = 67
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_KuangDi = {	#矿地
+#男爵领
+					province = 68
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_ZHongFuWen = {	#中符文（中阿特嚓斯）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_HaiDi = {	#海地
+#男爵领
+					province = 69
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_MuDi = {	#墓地
+#男爵领
+					province = 70
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_JiaDi = {	#家地
+#男爵领
+					province = 71
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_RongYaoDi = {	#荣耀地
+#男爵领
+					province = 72
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_XiFuWen = {	#西符文（西阿特嚓斯）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_DaoDi = {	#岛地
+#男爵领
+					province = 73
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_YongDi = {	#勇地
+#男爵领
+					province = 74
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+#				b_XNingDi = {	#星地
+#男爵领
+#					province = 75
+#拥有
+#					color = { 42 42 72 }
+#颜色
+#				}
+
+				b_ZHenFuDi = {	#征服地
+#男爵领
+					province = 75 #76
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_KuangQv = {	#矿区
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_DongKuangQv = {	#东矿区
+#男爵领
+					province = 76 #77
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiKuangQv = {	#西矿区
+#男爵领
+					province = 77 #78
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_SHeDao = {	#蛇岛
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_SHeDao = {	#蛇岛
+#男爵领
+					province = 78 #79
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_HeXi = {	#河西
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_YanHaiHeXi = {	#沿海河西
+#男爵领
+					province = 79
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_HeXiZoLang = {	#河西走廊
+#男爵领
+					province = 80
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_SHangHeXi = {	#上河西
+#男爵领
+					province = 81
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_XiangDi = {	#象地
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_XiangYaGu = {	#象牙谷
+#男爵领
+					province = 82
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiangYaZoLang = {	#象牙走廊
+#男爵领
+					province = 83
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_DongXiangYaHaiAn = {	#东象牙海岸
+#男爵领
+					province = 84
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiXiangYaHaiAn = {	#西象牙海岸
+#男爵领
+					province = 85
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_YingDi = {	#鹰地
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_ZHongDongSiWaCaSHanJiao = {	#中东斯瓦嚓山脚
+#男爵领
+					province = 86
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_YingDi = {	#鹰地
+#男爵领
+					province = 87
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+		}
+
+		d_ZHongSiWaCzaSHan = {	#中斯瓦嚓山
+#公国
+			color = { 42 42 72 }
+#颜色
+			capital = c_SHeDao
+#首都
+			c_LeiDa = {	#垒达
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiDa = {	#垒达
+#男爵领
+					province = 89
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_ErA = {	#儿阿
+#男爵领
+					province = 90
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_ZiYouDi = {	#自由地
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_ZiYouDi = {	#自由地
+#男爵领
+					province = 91
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_KuangRen = {	#狂人
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_KuangRen = {	#狂人
+#男爵领
+					province = 92
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiQiCi = {	#垒其刺
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiQiCi = {	#垒其刺
+#男爵领
+					province = 93
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiTeNa = {	#垒特纳
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiTeNa = {	#垒特纳
+#男爵领
+					province = 94
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_TeBuHe = {	#特布赫
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_TeBuHe = {	#特布赫
+#男爵领
+					province = 95
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiHeFa = {	#垒赫伐
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiHeFa = {	#垒赫伐
+#男爵领
+					province = 96
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiLaTe = {	#垒腊特
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiLaTe = {	#垒腊特
+#男爵领
+					province = 97
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiWoTe = {	#垒沃特
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiWoTe = {	#垒沃特
+#男爵领
+					province = 98
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiDaEr = {	#垒达耳
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_DongLeiDaEr = {	#东垒达耳
+#男爵领
+					province = 99
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_XiLeiDaEr = {	#西垒达耳
+#男爵领
+					province = 100
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+		}
+
+		d_AoDa = {	#奥达
+#公国
+			color = { 42 42 72 }
+#颜色
+#			capital = c_SHeDao
+#首都
+			definite_form = yes
+		}
+	}
+}
+
+
+#e_ATeTuYi = {	#阿特图伊
+#帝国
+#	color = { 181 119 33 }
+#颜色
+#	capital = c_CHaoSHengLuYiDuan
+#首都
+#	ai_primary_priority = {
+#ai创建倾向
+#		add = 10
+#	}
+#	
+#	k_DongAtETuYi = {	#东阿特图伊
+#王国
+#	color = { 181 119 33 }
+#颜色
+#		capital = c_CHaoSHengLuYiDuan
+#首都
+#		ai_primary_priority = {
+#ai创建倾向
+#			add = 10
+#		}
+#		
+#		d_CHaoSHengLu = {	#朝圣陆
+#公国
+#			color = { 181 119 33 }
+#颜色
+#			capital = c_CHaoSHengLuYiDuan
+#首都
+#			c_CHaoSHengLuYiDuan = {	#朝圣陆一段
+#伯爵领
+#				color = { 181 119 33 }
+#颜色
+#				b_BianYuanZouLang = {	#边缘走廊
+#男爵领
+#					province = 61
+#拥有
+#					color = { 181 119 33 }
+#颜色
+#				}
+#
+#				b_CHaoSHengLu_CHuFai = {	#朝圣陆：出发
+#男爵领
+#					province = 62
+#拥有
+#					color = { 181 119 33 }
+#颜色
+#				}
+#
+#				b_CHaoSHengLu_WeiXian = {	#朝圣陆：危险
+#男爵领
+#					province = 63
+#拥有
+#					color = { 181 119 33 }
+#颜色
+#				}
+#
+#				b_CHaoSHengLu_XiWang = {	#朝圣陆：希望
+#男爵领
+#					province = 64
+#拥有
+#					color = { 181 119 33 }
+#颜色
+#				}
+#			}
+#
+#		}
+#	}
+#}
+
+e_ATe = {
+	color = { 16 156 28 }
+
+	capital =b_SHeDao
+	definite_form = yes
+}
+
+# These titles cut hundreds of errors from logs. 
+e_hre = { landless = yes }
+e_byzantium = { landless = yes }
+e_roman_empire = { landless = yes }
