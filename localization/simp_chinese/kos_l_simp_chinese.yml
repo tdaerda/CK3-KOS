@@ -38,7 +38,7 @@
  e_SiWaCa: "斯瓦嚓"
  k_SiWaCaSHanMai: "斯瓦嚓山脉"
  
- d_DongSiWaCzaSHan: "东斯瓦嚓山"
+ d_DongSiWaCzaSHan: "东斯瓦嚓" #东斯瓦嚓山
  c_DiErFoLuoLiYa: "赫沃图其赫"
  b_DiErFoLuoLiYa: "赫沃图其赫"
  b_LinJinFoLuoLiYaHai: "赫沃图其阿赫其特"
@@ -85,7 +85,7 @@
  b_XiaDongBeiSiWaCaSHanJiao: "下东北斯瓦嚓山脚"
  b_SHangDongBeiSiWaCaSHanJiao: "上东北斯瓦嚓山脚"
  
- d_ZHongDongSiWaCzaSHan: "中东斯瓦嚓山"
+ d_ZHongDongSiWaCzaSHan: "西斯瓦嚓" #中东斯瓦嚓山
  c_XiaBaoLiuDi: "下西特赫伐耳-阿特"
  b_XinTuDiBao: "新土地堡"
  b_XinGeABu: "新格阿布"
@@ -126,7 +126,7 @@
  b_ZHongDongSiWaCaSHanJiao: "中东斯瓦嚓山脚"
  b_YingDi: "鹰地"
  
- d_ZHongSiWaCzaSHan: "中斯瓦嚓山"
+ d_ZHongSiWaCzaSHan: "阿特" #中斯瓦嚓山
  c_LeiDa: "垒达"
  b_LeiDa: "垒达"
  b_ErA: "儿阿"

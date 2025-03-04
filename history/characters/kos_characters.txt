@@ -1,4 +1,4 @@
-﻿0 = {
+﻿0_0 = {
 	name = "LiuLiu"
 	dna = dna_0
 	dynasty = 0 #魔影

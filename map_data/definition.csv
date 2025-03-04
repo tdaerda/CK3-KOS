@@ -142,17 +142,33 @@
 100;119;130;103;XiLeiDaEr;x;	#西垒达耳 #东垒阿达
 
 101;58;42;43;LeiBuHeJiao;x;	#垒布赫脚
-101;74;36;57;BeiLeiBuHe;x;	#北垒布赫
+#102;74;36;57;BeiLeiBuHe;x;	#北垒布赫
 
-102;115;188;107;LeiATe';x;	#垒阿特
-
-103;215;197;110;NongMin;x;	#农民
-
+102;115;188;107;LeiATe;x;	#垒阿特
+103;215;197;110;NongMin;x;	#农民（阿图奥纳）
 104;176;220;171;LeiYi;x;	#垒伊
 
 105;39;43;169;HaiEnSHi;x;	#海恩市（伐赫特斯-阿赫其特）
 
-106;232;220;161;HaiEnSHiJiaoQv;x;	#海恩市郊区（伐赫特斯-阿赫其特-）
+106;232;220;161;HaiEnSHiJiaoQv;x;	#海恩市郊区（纳儿沃赫-伐赫特斯-阿赫其特）
+
+107;137;203;141;XiATeSHanJiao;x;	#西阿特山脚
+108;115;195;120;ZHongATeSHanJiao;x;	#中阿特山脚
+109;112;175;116;DongATeSHanJiao;x;	#东阿特山脚
+
+110;202;53;56;KeiDaCi;x;	#垒达刺
+
+
+111;183;191;170;ZHongXiSiWaCaSHanHuangDi;x;	#中西斯瓦嚓山荒地
+
+112;104;52;120;AoDaWan;x;	#奥达湾
+
+113;64;64;11;DongAoDaSHanJiao;x;	#东奥达山脚
+114;89;89;42;ZHongDongAoDaSHanJiao;x;	#中东奥达山脚
+115;249;251;88;XiaCiAoDa;x;	#下次奥达（下奥达-纳儿沃赫）
+116;219;255;188;SHangCiAoDa;x;	#上次奥达（上奥达-纳儿沃赫）
+117;224;225;132;XiCiAoDa;x;	#西次奥达（西奥达-纳儿沃赫）
+118;70;70;39;XiAoDaSHanJiao;x;	#西奥达山脚
 
 #61;143;186;0;BianYuanZouLang;x;	#东边缘走廊
 #62;251;255;0;CHaoSHengLu_CHuFai;x;	#朝圣陆：出发
@@ -163,5 +179,5 @@
 #62;60;75;165;XiBianYuanZouLang;x;	#阿特图伊-斯瓦嚓
 #63;131;132;67;XiBianYuanZouLang;x;	#特图嚓
 #
-107;255;255;255;CS;x;
-108;255;0;128;CS2;x;
+119;255;255;255;CS;x;
+120;255;0;128;CS2;x;

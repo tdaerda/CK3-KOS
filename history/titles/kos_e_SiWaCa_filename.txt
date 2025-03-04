@@ -187,6 +187,9 @@ c_YingDi = {	#鹰地
 
 d_ZHongSiWaCzaSHan = {	#中斯瓦嚓山
 	1.1.1 = { government = tribal_government }
+	-17.4.5 = {
+		holder = 18_1
+	}
 }
 
 c_LeiDa = {	#垒达
