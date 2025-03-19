@@ -320,3 +320,183 @@
 	religion = kos_qitve_aateerhert
 	holding = tribal_holding
 }
+
+101 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+102 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+103 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+104 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+105 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+106 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+107 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+108 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+109 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+110 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+111 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+112 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+113 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+114 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+115 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+116 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+117 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+118 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+119 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+120 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+121 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+122 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+123 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+124 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+125 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+126 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+127 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+128 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+129 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}
+
+130 = {		#西垒达耳
+	culture = aat
+	religion = kos_qitve_aateerhert
+#	holding = 
+}

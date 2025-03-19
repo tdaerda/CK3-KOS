@@ -1148,7 +1148,7 @@ e_SiWaCa = {	#斯瓦嚓
 #公国
 			color = { 42 42 72 }
 #颜色
-			capital = c_AoDaWan
+			capital = c_AoDa
 #首都
 			c_AoDaWan = {	#奥达湾
 #伯爵领
@@ -1215,16 +1215,161 @@ e_SiWaCa = {	#斯瓦嚓
 #颜色
 				}
 			}
+
+			c_LeiKeWo = {	#垒克沃
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiKeWo = {	#垒克沃
+#男爵领
+					province = 119
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_AoDa = {	#奥达
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_AoDa = {	#奥达
+#男爵领
+					province = 120
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiTaWo = {	#垒塔沃
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiTaWo = {	#垒塔沃
+#男爵领
+					province = 121
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiWa = {	#垒瓦
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiWa = {	#垒瓦
+#男爵领
+					province = 122
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiXiKa = {	#垒西卡
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_XiaLeiXiKa = {	#下垒西卡
+#男爵领
+					province = 123
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_SHangaLeiXiKa = {	#上垒西卡
+#男爵领
+					province = 124
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiKaEr = {	#垒卡耳
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_LeiKaEr = {	#垒卡耳
+#男爵领
+					province = 125
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_NanBuCHaoYuan = {	#南部草原
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_NanBuCHaoYuan = {	#南部草原
+#男爵领
+					province = 126
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_BinHaiCHaoYuan = {	#滨海草原（西特赫伐耳-奥伊）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_BinHaiCHaoYuan = {	#滨海草原（西特赫伐耳-奥伊）
+#男爵领
+					province = 127
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_LeiWaLiWei = {	#垒瓦利维
+			color = { 42 42 72 }
+#颜色
+				b_XiaLeiWaLiWei = {	#下垒瓦利维
+#男爵领
+					province = 128
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+
+				b_SHangLeiWaLiWei = {	#上垒瓦利维
+#男爵领
+					province = 129
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
+
+			c_AoDaGuan = {	#奥达关（瓦阿图-奥达）
+#伯爵领
+				color = { 42 42 72 }
+#颜色
+				b_AoDaGuan = {	#奥达关（瓦阿图-奥达）
+#男爵领
+					province = 130
+#拥有
+					color = { 42 42 72 }
+#颜色
+				}
+			}
 		}
 	}
 }
 
 
-#e_ATeTuYi = {	#阿特图伊
+#e_ATeuYi = {	#阿特图伊
 #帝国
 #	color = { 181 119 33 }
 #颜色
-#	capital = c_CHaoSHengLuYiDuan
+#	capital= c_CHaoSHengLuYiDuan
 #首都
 #	ai_primary_priority = {
 #ai创建倾向

@@ -618,6 +618,8 @@
 	trait = deceitful
 	trait = sadistic
 
+	trait = spindly
+	trait = shrewd
 	disallow_random_traits = yes
 	-37.10.21 = {
 		birth = yes

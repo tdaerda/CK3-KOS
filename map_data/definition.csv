@@ -170,6 +170,29 @@
 117;224;225;132;XiCiAoDa;x;	#西次奥达（西奥达-纳儿沃赫）
 118;70;70;39;XiAoDaSHanJiao;x;	#西奥达山脚
 
+119;78;46;46;LeiKeWo;x;	#垒克沃
+
+120;70;39;39;AoDa;x;	#奥达
+
+121;62;27;28;LeiTaWo;x;	#垒塔沃
+
+122;116;22;58;LeiWa;x;	#垒瓦
+
+123;133;34;37;XiaLeiXiKa;x;	#下垒西卡
+
+124;116;19;21;SHangaLeiXiKa;x;	#上垒西卡
+
+125;165;75;156;LeiKaEr;x;	#垒卡耳
+
+126;178;212;113;NanBuCHaoYuan;x;	#南部草原
+
+127;112;53;160;BinHaiCHaoYuan;x;	#滨海草原（西特赫伐耳-奥伊）
+
+128;128;170;167;XiaLeiWaLiWei;x;	#下垒瓦利维
+129;167;224;221;SHangLeiWaLiWei;x;	#上垒瓦利维
+
+130;120;52;53;AoDaGuan;x;	#奥达关（瓦阿图-奥达）
+
 #61;143;186;0;BianYuanZouLang;x;	#东边缘走廊
 #62;251;255;0;CHaoSHengLu_CHuFai;x;	#朝圣陆：出发
 #63;217;220;43;CHaoSHengLu_WeiXian;x;	#朝圣陆：危险
@@ -179,5 +202,5 @@
 #62;60;75;165;XiBianYuanZouLang;x;	#阿特图伊-斯瓦嚓
 #63;131;132;67;XiBianYuanZouLang;x;	#特图嚓
 #
-119;255;255;255;CS;x;
-120;255;0;128;CS2;x;
+131;255;255;255;CS;x;
+132;255;0;128;CS2;x;

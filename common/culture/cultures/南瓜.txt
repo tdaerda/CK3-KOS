@@ -208,7 +208,7 @@ aat = {
 	traditions = {
 #传统
 		tradition_hit_and_run
-		tradition_talent_acquisition
+		tradition_lords_of_the_elephant
 		tradition_runestones
 	}
 	

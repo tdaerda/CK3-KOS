@@ -187,9 +187,9 @@ c_YingDi = {	#鹰地
 
 d_ZHongSiWaCzaSHan = {	#中斯瓦嚓山
 	1.1.1 = { government = tribal_government }
-	-17.4.5 = {
-		holder = 18_1
-	}
+#	-17.4.5 = {
+#		holder = 18_1
+#	}
 }
 
 c_LeiDa = {	#垒达
@@ -270,8 +270,8 @@ c_LeiLaTe = {	#垒腊特
 
 c_LeiWoTe = {	#垒沃特
 	1.1.1 = { government = tribal_government }
-	1.1.1 = { change_development_level = 4 }
-	-17.4.5 = {
+	1.1.1 = { change_development_level = 3 }
+	-10.4.5 = {	#-17.4.5
 		holder = 18_1
 	}
 	1.1.1 = {
@@ -281,15 +281,55 @@ c_LeiWoTe = {	#垒沃特
 
 c_LeiDaEr = {	#垒达耳
 	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 2 }
 	-9.8.6 = {
 		holder = 19_1
 	}
 }
 
+c_LeiBuHe = {	#垒布赫
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-10.4.5 = {	#-17.4.5
+		holder = 18_1
+	}
+}
+
+c_NongMin = {	#阿图奥纳
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 3 }
+	-10.4.5 = {	#-17.4.5
+		holder = 18_1
+	}
+}
+
+c_HaiEnSHi = {	#海恩市（伐赫特斯-阿赫其特）
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 4 }
+	-10.4.5 = {	#-17.4.5
+		holder = 18_1
+	}
+}
+
+c_ATeSHanJiao = {	#阿特山脚
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 2 }
+	-10.4.5 = {	#-17.4.5
+		holder = 18_1
+	}
+}
+
+c_KeiDaCi = {	#垒达刺
+	1.1.1 = { government = tribal_government }
+	1.1.1 = { change_development_level = 2 }
+	-10.4.5 = {	#-17.4.5
+		holder = 18_1
+	}
+}
 
 d_AoDa = {	#奥达
 	1.1.1 = { government = tribal_government }
-	-10.4.5 = {
+	-17.4.5 = {	#-10.4.5
 		holder = 18_1
 	}
 }
